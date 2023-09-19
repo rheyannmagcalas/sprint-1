@@ -1,1001 +1,1001 @@
-CustomerID,PurchaseDate,PurchaseAmount,PurchaseCount,Product
-Customer0001,2022-07-13,379.83,0,Bicol Express
-Customer0002,2022-11-28,147.94,0,Adobo
-Customer0003,2022-11-18,889.81,0,Sinigang
-Customer0004,2022-07-05,773.05,0,Laing
-Customer0005,2022-09-28,196.59,0,Tinolang Manok
-Customer0006,2022-06-08,280.66,0,Bicol Express
-Customer0007,2022-11-28,238.43,0,Lumpia
-Customer0008,2022-03-07,782.61,0,Laing
-Customer0009,2022-01-28,64.78,0,Tinolang Manok
-Customer0010,2022-08-13,780.88,0,Tinolang Manok
-Customer0011,2022-05-30,152.12,0,Pancit Canton
-Customer0012,2022-06-08,245.55,0,Lechon
-Customer0013,2022-04-13,645.7,0,Tinolang Manok
-Customer0014,2022-10-22,537.3,0,Halo-Halo
-Customer0015,2022-12-29,731.9,0,Halo-Halo
-Customer0016,2022-06-25,29.29,0,Laing
-Customer0017,2022-04-21,196.53,0,Sinigang
-Customer0018,2022-09-15,622.1,0,Lumpia
-Customer0019,2022-01-27,213.82,0,Laing
-Customer0020,2022-07-24,415.66,0,Sinigang
-Customer0021,2022-05-22,355.56,0,Lumpia
-Customer0022,2022-08-02,297.71,0,Sinigang
-Customer0023,2022-05-07,738.92,0,Adobo
-Customer0024,2022-04-24,809.79,0,Kare-Kare
-Customer0025,2022-09-19,172.53,0,Halo-Halo
-Customer0026,2022-12-22,266.86,0,Lumpia
-Customer0027,2022-05-10,266.83,0,Laing
-Customer0028,2022-03-03,265.31,0,Pancit Canton
-Customer0029,2022-03-25,714.1,0,Laing
-Customer0030,2022-12-12,756.11,0,Bicol Express
-Customer0031,2022-02-22,864.02,0,Kare-Kare
-Customer0032,2022-07-24,54.28,0,Laing
-Customer0033,2022-02-28,383.86,0,Lechon
-Customer0034,2022-06-26,483.21,0,Sinigang
-Customer0035,2022-02-08,611.43,0,Halo-Halo
-Customer0036,2022-12-12,361.7,0,Halo-Halo
-Customer0037,2022-05-31,406.51,0,Kare-Kare
-Customer0038,2022-09-15,314.04,0,Tinolang Manok
-Customer0039,2022-07-03,588.23,0,Adobo
-Customer0040,2022-10-24,159.66,0,Pancit Canton
-Customer0041,2022-11-20,937.66,0,Kare-Kare
-Customer0042,2022-06-03,858.96,0,Kare-Kare
-Customer0043,2022-09-11,121.78,0,Tinolang Manok
-Customer0044,2022-12-13,431.96,0,Halo-Halo
-Customer0045,2022-08-19,318.61,0,Pancit Canton
-Customer0046,2022-05-27,187.04,0,Halo-Halo
-Customer0047,2022-08-06,984.76,0,Adobo
-Customer0048,2022-11-28,203.89,0,Lumpia
-Customer0049,2022-12-24,798.75,0,Adobo
-Customer0050,2022-11-03,38.49,0,Pancit Canton
-Customer0051,2022-01-03,117.55,0,Lechon
-Customer0052,2022-07-16,700.81,0,Bicol Express
-Customer0053,2022-04-28,688.86,0,Bicol Express
-Customer0054,2022-08-22,20.73,0,Adobo
-Customer0055,2022-05-20,521.32,0,Tinolang Manok
-Customer0056,2022-05-12,840.31,0,Lechon
-Customer0057,2022-06-29,186.1,0,Tinolang Manok
-Customer0058,2022-01-12,277.4,0,Tinolang Manok
-Customer0059,2022-03-09,745.97,0,Lumpia
-Customer0060,2022-04-23,801.68,0,Laing
-Customer0061,2022-07-04,164.25,0,Adobo
-Customer0062,2022-07-21,65.87,0,Tinolang Manok
-Customer0063,2022-01-28,466.31,0,Pancit Canton
-Customer0064,2022-08-05,370.21,0,Laing
-Customer0065,2022-04-11,698.74,0,Kare-Kare
-Customer0066,2022-08-31,226.53,0,Tinolang Manok
-Customer0067,2022-09-26,90.15,0,Tinolang Manok
-Customer0068,2022-02-16,254.5,0,Tinolang Manok
-Customer0069,2022-09-06,300.52,0,Kare-Kare
-Customer0070,2022-08-15,513.77,0,Pancit Canton
-Customer0071,2022-03-08,282.26,0,Bicol Express
-Customer0072,2022-08-07,554.1,0,Lechon
-Customer0073,2022-05-19,295.61,0,Halo-Halo
-Customer0074,2022-11-25,630.65,0,Kare-Kare
-Customer0075,2022-10-23,596.04,0,Sinigang
-Customer0076,2022-11-17,567.98,0,Adobo
-Customer0077,2022-01-30,556.45,0,Adobo
-Customer0078,2022-06-25,112.78,0,Pancit Canton
-Customer0079,2022-04-25,887.64,0,Lechon
-Customer0080,2022-02-09,375.73,0,Halo-Halo
-Customer0081,2022-01-17,650.78,0,Lechon
-Customer0082,2022-01-04,578.99,0,Lechon
-Customer0083,2022-07-14,821.9,0,Lumpia
-Customer0084,2022-08-08,652.07,0,Kare-Kare
-Customer0085,2022-04-27,649.68,0,Halo-Halo
-Customer0086,2022-08-11,267.21,0,Lechon
-Customer0087,2022-06-27,839.85,0,Laing
-Customer0088,2022-03-21,590.28,0,Halo-Halo
-Customer0089,2022-10-13,181.5,0,Kare-Kare
-Customer0090,2022-06-06,355.1,0,Lechon
-Customer0091,2022-04-15,495.67,0,Lechon
-Customer0092,2022-08-22,951.68,0,Bicol Express
-Customer0093,2022-03-05,317.61,0,Sinigang
-Customer0094,2022-10-18,877.38,0,Pancit Canton
-Customer0095,2022-03-25,834.68,0,Kare-Kare
-Customer0096,2022-03-18,106.96,0,Kare-Kare
-Customer0097,2022-05-07,391.6,0,Laing
-Customer0098,2022-08-10,458.54,0,Pancit Canton
-Customer0099,2022-10-31,600.1,0,Lumpia
-Customer0100,2022-05-14,196.71,0,Adobo
-Customer0101,2022-09-02,79.25,0,Bicol Express
-Customer0102,2022-03-31,345.43,0,Adobo
-Customer0103,2022-04-06,615.22,0,Pancit Canton
-Customer0104,2022-12-29,227.03,0,Laing
-Customer0105,2022-07-28,118.1,0,Halo-Halo
-Customer0106,2022-10-27,85.23,0,Sinigang
-Customer0107,2022-06-19,796.81,0,Pancit Canton
-Customer0108,2022-02-13,499.33,0,Kare-Kare
-Customer0109,2022-09-07,133.06,0,Bicol Express
-Customer0110,2022-08-02,44.89,0,Halo-Halo
-Customer0111,2022-01-07,901.92,0,Lechon
-Customer0112,2022-06-27,324.55,0,Laing
-Customer0113,2022-05-15,657.83,0,Pancit Canton
-Customer0114,2022-06-19,664.11,0,Adobo
-Customer0115,2022-04-10,591.91,0,Adobo
-Customer0116,2022-04-13,939.11,0,Sinigang
-Customer0117,2022-11-04,911.44,0,Bicol Express
-Customer0118,2022-08-22,357.66,0,Bicol Express
-Customer0119,2022-07-28,585.11,0,Pancit Canton
-Customer0120,2022-02-25,870.55,0,Lumpia
-Customer0121,2022-02-08,81.15,0,Bicol Express
-Customer0122,2022-07-04,594.92,0,Adobo
-Customer0123,2022-12-18,985.87,0,Laing
-Customer0124,2022-12-01,198.41,0,Laing
-Customer0125,2022-04-19,580.68,0,Tinolang Manok
-Customer0126,2022-03-04,243.52,0,Pancit Canton
-Customer0127,2022-01-24,913.46,0,Laing
-Customer0128,2022-01-13,506.17,0,Tinolang Manok
-Customer0129,2022-05-28,281.78,0,Laing
-Customer0130,2022-12-21,676.85,0,Tinolang Manok
-Customer0131,2022-08-29,336.26,0,Tinolang Manok
-Customer0132,2022-01-19,943.46,0,Sinigang
-Customer0133,2022-08-11,129.49,0,Sinigang
-Customer0134,2022-12-18,94.07,0,Lumpia
-Customer0135,2022-10-21,766.54,0,Laing
-Customer0136,2022-12-24,482.28,0,Pancit Canton
-Customer0137,2022-04-23,930.83,0,Tinolang Manok
-Customer0138,2022-10-13,712.53,0,Sinigang
-Customer0139,2022-06-15,863.62,0,Lumpia
-Customer0140,2022-06-26,752.98,0,Adobo
-Customer0141,2022-02-11,660.16,0,Tinolang Manok
-Customer0142,2022-10-17,344.93,0,Bicol Express
-Customer0143,2022-02-25,952.59,0,Lumpia
-Customer0144,2022-06-24,128.43,0,Lechon
-Customer0145,2022-05-29,470.89,0,Laing
-Customer0146,2022-04-06,778.09,0,Pancit Canton
-Customer0147,2022-10-23,296.19,0,Sinigang
-Customer0148,2022-09-19,224.84,0,Pancit Canton
-Customer0149,2022-05-28,305.14,0,Pancit Canton
-Customer0150,2022-05-07,391.24,0,Lumpia
-Customer0151,2022-10-22,519.79,0,Laing
-Customer0152,2022-02-24,35.13,0,Adobo
-Customer0153,2022-06-17,602.47,0,Tinolang Manok
-Customer0154,2022-11-19,53.2,0,Kare-Kare
-Customer0155,2022-08-08,219.18,0,Laing
-Customer0156,2022-08-31,391.08,0,Sinigang
-Customer0157,2022-11-03,586.44,0,Lechon
-Customer0158,2022-12-14,139.39,0,Pancit Canton
-Customer0159,2022-02-23,197.61,0,Laing
-Customer0160,2022-08-20,380.71,0,Tinolang Manok
-Customer0161,2022-04-13,49.56,0,Kare-Kare
-Customer0162,2022-06-07,24.66,0,Laing
-Customer0163,2022-09-28,326.48,0,Bicol Express
-Customer0164,2022-10-25,212.67,0,Lumpia
-Customer0165,2022-02-15,192.56,0,Halo-Halo
-Customer0166,2022-07-19,404.69,0,Adobo
-Customer0167,2022-08-21,913.54,0,Adobo
-Customer0168,2022-09-19,736.85,0,Laing
-Customer0169,2022-02-27,502.79,0,Halo-Halo
-Customer0170,2022-04-26,490.77,0,Pancit Canton
-Customer0171,2022-12-12,603.07,0,Pancit Canton
-Customer0172,2022-12-24,799.71,0,Tinolang Manok
-Customer0173,2022-08-19,828.61,0,Sinigang
-Customer0174,2022-03-24,166.48,0,Halo-Halo
-Customer0175,2022-10-20,336.33,0,Adobo
-Customer0176,2022-09-04,424.9,0,Adobo
-Customer0177,2022-05-01,748.76,0,Halo-Halo
-Customer0178,2022-03-12,55.46,0,Bicol Express
-Customer0179,2022-08-27,663.91,0,Lumpia
-Customer0180,2022-04-18,448.04,0,Kare-Kare
-Customer0181,2022-01-19,955.45,0,Adobo
-Customer0182,2022-11-14,127.14,0,Lumpia
-Customer0183,2022-05-17,404.79,0,Sinigang
-Customer0184,2022-10-11,291.0,0,Sinigang
-Customer0185,2022-04-03,127.58,0,Lumpia
-Customer0186,2022-10-28,529.25,0,Laing
-Customer0187,2022-08-15,503.55,0,Kare-Kare
-Customer0188,2022-09-02,320.75,0,Tinolang Manok
-Customer0189,2022-03-03,344.22,0,Bicol Express
-Customer0190,2022-11-29,537.59,0,Halo-Halo
-Customer0191,2022-07-17,650.16,0,Lechon
-Customer0192,2022-12-29,104.99,0,Laing
-Customer0193,2022-03-01,721.0,0,Sinigang
-Customer0194,2022-04-18,781.35,0,Lumpia
-Customer0195,2022-09-05,734.36,0,Halo-Halo
-Customer0196,2022-01-06,809.68,0,Bicol Express
-Customer0197,2022-03-01,998.17,0,Pancit Canton
-Customer0198,2022-12-08,504.29,0,Kare-Kare
-Customer0199,2022-05-06,354.21,0,Halo-Halo
-Customer0200,2022-07-02,849.0,0,Sinigang
-Customer0201,2022-05-30,129.78,0,Halo-Halo
-Customer0202,2022-08-19,932.81,0,Tinolang Manok
-Customer0203,2022-10-03,494.79,0,Pancit Canton
-Customer0204,2022-10-05,861.36,0,Bicol Express
-Customer0205,2022-01-16,928.27,0,Lumpia
-Customer0206,2022-09-01,445.88,0,Laing
-Customer0207,2022-04-24,145.66,0,Halo-Halo
-Customer0208,2022-01-13,774.92,0,Kare-Kare
-Customer0209,2022-10-15,417.58,0,Kare-Kare
-Customer0210,2022-08-09,629.33,0,Lechon
-Customer0211,2022-02-02,704.52,0,Pancit Canton
-Customer0212,2022-02-11,94.47,0,Adobo
-Customer0213,2022-01-31,131.09,0,Adobo
-Customer0214,2022-05-18,908.5,0,Lechon
-Customer0215,2022-08-15,637.45,0,Bicol Express
-Customer0216,2022-01-18,267.08,0,Pancit Canton
-Customer0217,2022-03-09,144.81,0,Kare-Kare
-Customer0218,2022-10-13,396.48,0,Kare-Kare
-Customer0219,2022-12-13,939.76,0,Pancit Canton
-Customer0220,2022-06-29,905.35,0,Bicol Express
-Customer0221,2022-05-25,478.17,0,Lechon
-Customer0222,2022-11-27,704.32,0,Bicol Express
-Customer0223,2022-05-20,212.57,0,Lechon
-Customer0224,2022-09-26,20.47,0,Adobo
-Customer0225,2022-03-30,866.45,0,Halo-Halo
-Customer0226,2022-04-14,772.99,0,Halo-Halo
-Customer0227,2022-04-08,887.41,0,Sinigang
-Customer0228,2022-05-10,74.45,0,Lechon
-Customer0229,2022-02-02,612.15,0,Kare-Kare
-Customer0230,2022-08-10,11.94,0,Laing
-Customer0231,2022-01-17,260.24,0,Lumpia
-Customer0232,2022-10-14,127.62,0,Kare-Kare
-Customer0233,2022-12-10,496.76,0,Lechon
-Customer0234,2022-06-03,688.15,0,Sinigang
-Customer0235,2022-08-29,41.05,0,Tinolang Manok
-Customer0236,2022-07-06,134.53,0,Sinigang
-Customer0237,2022-05-25,44.3,0,Lechon
-Customer0238,2022-11-09,880.04,0,Sinigang
-Customer0239,2022-04-16,698.89,0,Bicol Express
-Customer0240,2022-07-02,920.82,0,Lumpia
-Customer0241,2022-04-12,600.79,0,Pancit Canton
-Customer0242,2022-10-29,79.68,0,Adobo
-Customer0243,2022-12-04,988.27,0,Halo-Halo
-Customer0244,2022-08-19,209.8,0,Bicol Express
-Customer0245,2022-03-24,572.61,0,Halo-Halo
-Customer0246,2022-02-03,44.69,0,Bicol Express
-Customer0247,2022-12-18,219.52,0,Lechon
-Customer0248,2022-02-10,305.3,0,Halo-Halo
-Customer0249,2022-03-16,580.4,0,Kare-Kare
-Customer0250,2022-01-26,927.33,0,Sinigang
-Customer0251,2022-05-31,674.56,0,Halo-Halo
-Customer0252,2022-03-09,966.64,0,Bicol Express
-Customer0253,2022-01-29,183.46,0,Lechon
-Customer0254,2022-02-09,113.81,0,Halo-Halo
-Customer0255,2022-12-30,619.48,0,Bicol Express
-Customer0256,2022-03-04,446.43,0,Halo-Halo
-Customer0257,2022-01-09,70.45,0,Tinolang Manok
-Customer0258,2022-05-27,522.91,0,Sinigang
-Customer0259,2022-07-14,61.12,0,Laing
-Customer0260,2022-03-20,168.41,0,Laing
-Customer0261,2022-02-21,389.91,0,Sinigang
-Customer0262,2022-12-22,807.8,0,Bicol Express
-Customer0263,2022-10-13,470.03,0,Halo-Halo
-Customer0264,2022-09-22,309.97,0,Laing
-Customer0265,2022-07-22,372.62,0,Tinolang Manok
-Customer0266,2022-12-07,864.59,0,Tinolang Manok
-Customer0267,2022-05-20,771.78,0,Lumpia
-Customer0268,2022-04-16,242.1,0,Kare-Kare
-Customer0269,2022-11-17,362.3,0,Adobo
-Customer0270,2022-12-21,434.99,0,Halo-Halo
-Customer0271,2022-11-26,971.44,0,Lumpia
-Customer0272,2022-06-13,819.34,0,Lumpia
-Customer0273,2022-10-11,61.1,0,Laing
-Customer0274,2022-07-03,23.98,0,Sinigang
-Customer0275,2022-01-31,614.66,0,Sinigang
-Customer0276,2022-05-13,269.93,0,Lumpia
-Customer0277,2022-03-18,233.76,0,Bicol Express
-Customer0278,2022-08-17,783.0,0,Sinigang
-Customer0279,2022-06-15,326.56,0,Lechon
-Customer0280,2022-02-17,157.7,0,Lumpia
-Customer0281,2022-08-01,813.17,0,Tinolang Manok
-Customer0282,2022-05-08,264.79,0,Kare-Kare
-Customer0283,2022-06-24,885.13,0,Pancit Canton
-Customer0284,2022-04-13,320.35,0,Tinolang Manok
-Customer0285,2022-09-26,49.01,0,Laing
-Customer0286,2022-09-16,163.47,0,Bicol Express
-Customer0287,2022-07-23,340.74,0,Lechon
-Customer0288,2022-10-27,536.97,0,Pancit Canton
-Customer0289,2022-03-25,889.68,0,Adobo
-Customer0290,2022-08-20,68.81,0,Halo-Halo
-Customer0291,2022-05-23,241.19,0,Kare-Kare
-Customer0292,2022-08-10,712.13,0,Tinolang Manok
-Customer0293,2022-08-29,951.81,0,Adobo
-Customer0294,2022-03-24,273.86,0,Lechon
-Customer0295,2022-03-19,766.5,0,Laing
-Customer0296,2022-11-25,87.6,0,Kare-Kare
-Customer0297,2022-11-02,927.46,0,Kare-Kare
-Customer0298,2022-02-26,27.85,0,Halo-Halo
-Customer0299,2022-07-07,791.47,0,Lumpia
-Customer0300,2022-11-08,649.41,0,Adobo
-Customer0301,2022-03-09,134.29,0,Tinolang Manok
-Customer0302,2022-06-24,373.16,0,Halo-Halo
-Customer0303,2022-03-20,282.42,0,Laing
-Customer0304,2022-07-19,194.52,0,Laing
-Customer0305,2022-03-10,173.44,0,Halo-Halo
-Customer0306,2022-05-25,705.84,0,Pancit Canton
-Customer0307,2022-02-27,767.08,0,Lumpia
-Customer0308,2022-12-05,299.82,0,Lechon
-Customer0309,2022-10-09,52.95,0,Bicol Express
-Customer0310,2022-04-10,264.0,0,Kare-Kare
-Customer0311,2022-02-17,296.86,0,Pancit Canton
-Customer0312,2022-10-23,718.61,0,Kare-Kare
-Customer0313,2022-11-09,541.02,0,Lumpia
-Customer0314,2022-05-05,49.0,0,Kare-Kare
-Customer0315,2022-03-26,65.46,0,Pancit Canton
-Customer0316,2022-07-22,76.14,0,Lumpia
-Customer0317,2022-01-07,503.95,0,Adobo
-Customer0318,2022-11-02,286.57,0,Sinigang
-Customer0319,2022-06-15,850.68,0,Sinigang
-Customer0320,2022-03-30,764.18,0,Sinigang
-Customer0321,2022-04-09,667.89,0,Tinolang Manok
-Customer0322,2022-11-06,715.28,0,Halo-Halo
-Customer0323,2022-04-11,698.79,0,Bicol Express
-Customer0324,2022-11-03,142.0,0,Kare-Kare
-Customer0325,2022-04-25,350.69,0,Sinigang
-Customer0326,2022-01-11,681.69,0,Halo-Halo
-Customer0327,2022-08-31,961.58,0,Lumpia
-Customer0328,2022-07-02,527.78,0,Halo-Halo
-Customer0329,2022-03-23,329.59,0,Bicol Express
-Customer0330,2022-01-22,378.11,0,Pancit Canton
-Customer0331,2022-10-30,244.1,0,Tinolang Manok
-Customer0332,2022-11-06,870.79,0,Tinolang Manok
-Customer0333,2022-05-03,312.73,0,Halo-Halo
-Customer0334,2022-04-27,893.48,0,Lumpia
-Customer0335,2022-05-02,701.42,0,Halo-Halo
-Customer0336,2022-01-08,246.04,0,Tinolang Manok
-Customer0337,2022-02-19,389.09,0,Adobo
-Customer0338,2022-08-15,732.39,0,Pancit Canton
-Customer0339,2022-05-14,642.3,0,Lechon
-Customer0340,2022-02-09,200.12,0,Adobo
-Customer0341,2022-12-09,324.73,0,Bicol Express
-Customer0342,2022-07-06,708.24,0,Tinolang Manok
-Customer0343,2022-12-14,901.24,0,Halo-Halo
-Customer0344,2022-03-29,213.81,0,Kare-Kare
-Customer0345,2022-04-12,843.02,0,Lechon
-Customer0346,2022-06-16,356.77,0,Bicol Express
-Customer0347,2022-05-09,498.37,0,Sinigang
-Customer0348,2022-06-24,614.05,0,Sinigang
-Customer0349,2022-07-21,192.29,0,Sinigang
-Customer0350,2022-02-19,321.8,0,Tinolang Manok
-Customer0351,2022-12-30,917.27,0,Halo-Halo
-Customer0352,2022-08-15,534.9,0,Kare-Kare
-Customer0353,2022-02-06,557.16,0,Laing
-Customer0354,2022-07-22,180.71,0,Bicol Express
-Customer0355,2022-01-15,18.46,0,Laing
-Customer0356,2022-12-09,502.56,0,Lumpia
-Customer0357,2022-01-09,937.83,0,Lechon
-Customer0358,2022-11-19,402.09,0,Adobo
-Customer0359,2022-02-24,294.19,0,Adobo
-Customer0360,2022-12-12,692.86,0,Pancit Canton
-Customer0361,2022-09-26,785.86,0,Tinolang Manok
-Customer0362,2022-01-10,918.12,0,Lechon
-Customer0363,2022-09-01,958.3,0,Pancit Canton
-Customer0364,2022-08-31,408.88,0,Bicol Express
-Customer0365,2022-07-26,107.41,0,Lumpia
-Customer0366,2022-06-05,205.61,0,Kare-Kare
-Customer0367,2022-06-01,694.68,0,Tinolang Manok
-Customer0368,2022-10-07,694.54,0,Kare-Kare
-Customer0369,2022-05-20,830.09,0,Adobo
-Customer0370,2022-02-17,948.6,0,Halo-Halo
-Customer0371,2022-10-16,758.17,0,Adobo
-Customer0372,2022-01-17,908.65,0,Halo-Halo
-Customer0373,2022-04-21,176.4,0,Laing
-Customer0374,2022-09-27,508.47,0,Halo-Halo
-Customer0375,2022-09-23,579.31,0,Bicol Express
-Customer0376,2022-03-23,190.53,0,Lechon
-Customer0377,2022-12-19,296.16,0,Lechon
-Customer0378,2022-11-28,117.95,0,Kare-Kare
-Customer0379,2022-03-02,957.0,0,Pancit Canton
-Customer0380,2022-07-07,972.11,0,Lumpia
-Customer0381,2022-11-22,558.55,0,Tinolang Manok
-Customer0382,2022-05-08,477.36,0,Pancit Canton
-Customer0383,2022-02-19,422.7,0,Halo-Halo
-Customer0384,2022-07-23,519.36,0,Pancit Canton
-Customer0385,2022-04-13,462.21,0,Kare-Kare
-Customer0386,2022-03-17,836.49,0,Lechon
-Customer0387,2022-10-28,361.27,0,Halo-Halo
-Customer0388,2022-06-12,275.9,0,Laing
-Customer0389,2022-10-09,706.4,0,Halo-Halo
-Customer0390,2022-08-19,594.23,0,Lumpia
-Customer0391,2022-12-17,233.26,0,Sinigang
-Customer0392,2022-02-20,508.29,0,Lumpia
-Customer0393,2022-10-06,536.41,0,Lumpia
-Customer0394,2022-10-09,673.19,0,Lumpia
-Customer0395,2022-12-21,526.44,0,Pancit Canton
-Customer0396,2022-02-18,678.06,0,Kare-Kare
-Customer0397,2022-03-05,442.83,0,Laing
-Customer0398,2022-03-11,514.07,0,Kare-Kare
-Customer0399,2022-12-22,873.67,0,Tinolang Manok
-Customer0400,2022-08-11,647.95,0,Lechon
-Customer0401,2022-01-28,871.93,0,Sinigang
-Customer0402,2022-01-13,58.45,0,Laing
-Customer0403,2022-12-19,951.91,0,Lechon
-Customer0404,2022-06-07,814.91,0,Lechon
-Customer0405,2022-04-21,872.33,0,Lechon
-Customer0406,2022-10-11,139.09,0,Pancit Canton
-Customer0407,2022-02-06,860.63,0,Sinigang
-Customer0408,2022-12-23,844.42,0,Laing
-Customer0409,2022-05-31,424.51,0,Halo-Halo
-Customer0410,2022-05-03,772.82,0,Kare-Kare
-Customer0411,2022-05-23,434.37,0,Lechon
-Customer0412,2022-04-25,577.92,0,Tinolang Manok
-Customer0413,2022-11-22,488.73,0,Tinolang Manok
-Customer0414,2022-01-30,467.39,0,Halo-Halo
-Customer0415,2022-05-26,25.13,0,Lumpia
-Customer0416,2022-06-02,839.3,0,Kare-Kare
-Customer0417,2022-02-04,109.96,0,Bicol Express
-Customer0418,2022-08-12,970.91,0,Bicol Express
-Customer0419,2022-06-29,801.81,0,Adobo
-Customer0420,2022-10-29,431.39,0,Tinolang Manok
-Customer0421,2022-04-23,915.1,0,Pancit Canton
-Customer0422,2022-08-06,839.28,0,Laing
-Customer0423,2022-04-26,138.14,0,Kare-Kare
-Customer0424,2022-11-24,417.31,0,Lumpia
-Customer0425,2022-09-07,771.71,0,Laing
-Customer0426,2022-05-13,146.83,0,Halo-Halo
-Customer0427,2022-12-14,573.12,0,Lechon
-Customer0428,2022-12-20,808.27,0,Kare-Kare
-Customer0429,2022-10-24,507.29,0,Pancit Canton
-Customer0430,2022-06-02,251.14,0,Kare-Kare
-Customer0431,2022-05-09,763.28,0,Halo-Halo
-Customer0432,2022-09-23,926.27,0,Kare-Kare
-Customer0433,2022-05-06,161.74,0,Pancit Canton
-Customer0434,2022-12-18,614.39,0,Bicol Express
-Customer0435,2022-01-25,257.77,0,Kare-Kare
-Customer0436,2022-10-11,863.49,0,Kare-Kare
-Customer0437,2022-03-19,58.28,0,Sinigang
-Customer0438,2022-03-04,625.68,0,Kare-Kare
-Customer0439,2022-07-07,891.89,0,Lechon
-Customer0440,2022-10-04,94.16,0,Kare-Kare
-Customer0441,2022-08-08,639.69,0,Laing
-Customer0442,2022-05-08,22.95,0,Sinigang
-Customer0443,2022-12-28,588.06,0,Pancit Canton
-Customer0444,2022-04-18,341.71,0,Kare-Kare
-Customer0445,2022-11-22,741.33,0,Adobo
-Customer0446,2022-05-22,668.42,0,Halo-Halo
-Customer0447,2022-01-11,219.21,0,Lumpia
-Customer0448,2022-03-16,393.87,0,Adobo
-Customer0449,2022-08-06,954.63,0,Lumpia
-Customer0450,2022-09-06,775.81,0,Kare-Kare
-Customer0451,2022-03-18,621.06,0,Tinolang Manok
-Customer0452,2022-01-14,648.74,0,Kare-Kare
-Customer0453,2022-09-09,957.91,0,Pancit Canton
-Customer0454,2022-11-18,891.68,0,Pancit Canton
-Customer0455,2022-10-22,149.37,0,Lumpia
-Customer0456,2022-04-08,779.8,0,Bicol Express
-Customer0457,2022-12-02,234.35,0,Tinolang Manok
-Customer0458,2022-03-09,843.95,0,Lumpia
-Customer0459,2022-12-06,709.39,0,Lumpia
-Customer0460,2022-08-08,163.38,0,Lechon
-Customer0461,2022-12-25,942.71,0,Kare-Kare
-Customer0462,2022-07-18,475.75,0,Kare-Kare
-Customer0463,2022-05-08,411.86,0,Pancit Canton
-Customer0464,2022-01-23,877.54,0,Lechon
-Customer0465,2022-01-13,197.15,0,Lechon
-Customer0466,2022-06-10,880.33,0,Bicol Express
-Customer0467,2022-05-27,941.23,0,Pancit Canton
-Customer0468,2022-05-06,514.8,0,Kare-Kare
-Customer0469,2022-11-21,841.18,0,Tinolang Manok
-Customer0470,2022-12-08,464.43,0,Kare-Kare
-Customer0471,2022-09-13,336.33,0,Adobo
-Customer0472,2022-09-16,319.01,0,Tinolang Manok
-Customer0473,2022-08-06,914.44,0,Kare-Kare
-Customer0474,2022-04-28,32.25,0,Kare-Kare
-Customer0475,2022-05-18,446.22,0,Bicol Express
-Customer0476,2022-03-09,442.75,0,Tinolang Manok
-Customer0477,2022-03-27,141.87,0,Kare-Kare
-Customer0478,2022-09-18,956.13,0,Laing
-Customer0479,2022-05-23,799.01,0,Kare-Kare
-Customer0480,2022-08-12,24.75,0,Tinolang Manok
-Customer0481,2022-06-22,615.4,0,Laing
-Customer0482,2022-11-07,275.83,0,Kare-Kare
-Customer0483,2022-01-29,376.13,0,Kare-Kare
-Customer0484,2022-03-01,536.02,0,Laing
-Customer0485,2022-09-17,843.36,0,Laing
-Customer0486,2022-09-22,476.42,0,Pancit Canton
-Customer0487,2022-09-18,537.48,0,Adobo
-Customer0488,2022-03-01,33.34,0,Bicol Express
-Customer0489,2022-01-29,175.25,0,Lechon
-Customer0490,2022-03-01,184.58,0,Lechon
-Customer0491,2022-11-30,740.8,0,Lechon
-Customer0492,2022-06-20,83.37,0,Adobo
-Customer0493,2022-07-20,519.74,0,Pancit Canton
-Customer0494,2022-03-11,706.19,0,Pancit Canton
-Customer0495,2022-05-09,807.18,0,Halo-Halo
-Customer0496,2022-10-01,382.73,0,Lumpia
-Customer0497,2022-08-15,876.98,0,Lumpia
-Customer0498,2022-12-06,985.56,0,Laing
-Customer0499,2022-10-24,296.86,0,Bicol Express
-Customer0500,2022-05-14,239.23,0,Pancit Canton
-Customer0501,2022-11-15,639.03,-1,Adobo
-Customer0502,2022-06-29,773.13,-1,Pancit Canton
-Customer0503,2022-04-12,364.15,-1,Laing
-Customer0504,2022-12-01,608.13,-1,Kare-Kare
-Customer0505,2022-01-31,160.12,-1,Lechon
-Customer0506,2022-10-07,816.34,-1,Tinolang Manok
-Customer0507,2022-10-29,474.09,-1,Sinigang
-Customer0508,2022-06-05,62.11,-1,Pancit Canton
-Customer0509,2022-07-02,578.53,-1,Bicol Express
-Customer0510,2022-10-29,927.23,-1,Adobo
-Customer0511,2022-12-26,514.91,-1,Bicol Express
-Customer0512,2022-07-25,949.06,-1,Lechon
-Customer0513,2022-05-05,437.21,-1,Kare-Kare
-Customer0514,2022-03-18,281.6,-1,Lechon
-Customer0515,2022-09-05,344.21,-1,Tinolang Manok
-Customer0516,2022-01-25,498.03,-1,Sinigang
-Customer0517,2022-11-18,813.25,-1,Sinigang
-Customer0518,2022-07-01,308.24,-1,Halo-Halo
-Customer0519,2022-04-18,557.31,-1,Halo-Halo
-Customer0520,2022-08-01,573.34,-1,Halo-Halo
-Customer0521,2022-10-16,530.42,-1,Laing
-Customer0522,2022-04-11,250.63,-1,Sinigang
-Customer0523,2022-09-21,50.83,-1,Lechon
-Customer0524,2022-11-04,87.46,-1,Tinolang Manok
-Customer0525,2022-03-18,736.07,-1,Sinigang
-Customer0526,2022-05-17,352.04,-1,Kare-Kare
-Customer0527,2022-12-09,742.47,-1,Pancit Canton
-Customer0528,2022-10-28,775.59,-1,Pancit Canton
-Customer0529,2022-06-02,727.48,-1,Lechon
-Customer0530,2022-07-04,717.44,-1,Pancit Canton
-Customer0531,2022-03-23,721.93,-1,Bicol Express
-Customer0532,2022-05-09,316.96,-1,Kare-Kare
-Customer0533,2022-03-07,63.43,-1,Adobo
-Customer0534,2022-03-16,113.68,-1,Pancit Canton
-Customer0535,2022-01-30,105.39,-1,Halo-Halo
-Customer0536,2022-12-01,694.51,-1,Adobo
-Customer0537,2022-04-22,238.29,-1,Adobo
-Customer0538,2022-04-02,655.19,-1,Lechon
-Customer0539,2022-12-15,740.38,-1,Laing
-Customer0540,2022-09-16,263.7,-1,Laing
-Customer0541,2022-04-16,534.72,-1,Tinolang Manok
-Customer0542,2022-10-25,211.82,-1,Adobo
-Customer0543,2022-08-20,615.29,-1,Adobo
-Customer0544,2022-06-24,307.22,-1,Lechon
-Customer0545,2022-11-01,134.99,-1,Laing
-Customer0546,2022-06-18,713.66,-1,Halo-Halo
-Customer0547,2022-10-22,709.71,-1,Adobo
-Customer0548,2022-07-20,732.04,-1,Kare-Kare
-Customer0549,2022-03-16,372.2,-1,Adobo
-Customer0550,2022-06-06,743.38,-1,Adobo
-Customer0551,2022-03-08,823.95,-1,Lumpia
-Customer0552,2022-04-26,197.96,-1,Lumpia
-Customer0553,2022-08-06,58.02,-1,Laing
-Customer0554,2022-11-09,424.1,-1,Tinolang Manok
-Customer0555,2022-08-13,751.38,-1,Lechon
-Customer0556,2022-12-10,280.52,-1,Pancit Canton
-Customer0557,2022-07-02,218.32,-1,Tinolang Manok
-Customer0558,2022-04-05,161.71,-1,Lumpia
-Customer0559,2022-03-02,314.42,-1,Sinigang
-Customer0560,2022-07-01,668.17,-1,Adobo
-Customer0561,2022-09-06,979.53,-1,Sinigang
-Customer0562,2022-05-26,447.84,-1,Pancit Canton
-Customer0563,2022-09-13,883.67,-1,Pancit Canton
-Customer0564,2022-08-22,910.45,-1,Kare-Kare
-Customer0565,2022-04-25,345.72,-1,Lumpia
-Customer0566,2022-11-27,394.5,-1,Tinolang Manok
-Customer0567,2022-02-10,634.8,-1,Halo-Halo
-Customer0568,2022-09-10,758.07,-1,Pancit Canton
-Customer0569,2022-04-21,30.79,-1,Tinolang Manok
-Customer0570,2022-11-02,98.55,-1,Adobo
-Customer0571,2022-07-23,145.69,-1,Sinigang
-Customer0572,2022-12-26,296.7,-1,Adobo
-Customer0573,2022-01-05,329.17,-1,Pancit Canton
-Customer0574,2022-06-19,666.76,-1,Pancit Canton
-Customer0575,2022-03-21,198.57,-1,Adobo
-Customer0576,2022-10-16,271.62,-1,Lumpia
-Customer0577,2022-01-11,446.11,-1,Halo-Halo
-Customer0578,2022-03-16,501.36,-1,Adobo
-Customer0579,2022-12-13,131.14,-1,Adobo
-Customer0580,2022-02-12,834.55,-1,Lumpia
-Customer0581,2022-07-04,830.1,-1,Lechon
-Customer0582,2022-05-03,778.55,-1,Kare-Kare
-Customer0583,2022-08-18,201.77,-1,Halo-Halo
-Customer0584,2022-07-28,139.45,-1,Lumpia
-Customer0585,2022-05-21,598.29,-1,Tinolang Manok
-Customer0586,2022-07-22,42.42,-1,Tinolang Manok
-Customer0587,2022-03-23,879.72,-1,Adobo
-Customer0588,2022-06-02,900.71,-1,Tinolang Manok
-Customer0589,2022-03-19,418.8,-1,Laing
-Customer0590,2022-07-29,516.75,-1,Tinolang Manok
-Customer0591,2022-11-11,520.82,-1,Sinigang
-Customer0592,2022-04-10,439.0,-1,Sinigang
-Customer0593,2022-10-31,15.35,-1,Bicol Express
-Customer0594,2022-01-17,587.61,-1,Adobo
-Customer0595,2022-05-16,669.6,-1,Tinolang Manok
-Customer0596,2022-07-12,61.63,-1,Pancit Canton
-Customer0597,2022-05-04,927.0,-1,Bicol Express
-Customer0598,2022-04-14,220.5,-1,Lumpia
-Customer0599,2022-03-06,348.5,-1,Kare-Kare
-Customer0600,2022-08-06,871.75,-1,Adobo
-Customer0601,2022-01-15,341.48,-1,Bicol Express
-Customer0602,2022-11-12,728.07,-1,Tinolang Manok
-Customer0603,2022-12-28,690.45,-1,Adobo
-Customer0604,2022-04-14,271.97,-1,Sinigang
-Customer0605,2022-12-05,114.12,-1,Bicol Express
-Customer0606,2022-01-09,220.09,-1,Halo-Halo
-Customer0607,2022-09-20,140.91,-1,Sinigang
-Customer0608,2022-01-13,411.77,-1,Kare-Kare
-Customer0609,2022-01-05,420.37,-1,Tinolang Manok
-Customer0610,2022-01-20,831.78,-1,Laing
-Customer0611,2022-10-08,404.15,-1,Laing
-Customer0612,2022-08-30,11.15,-1,Bicol Express
-Customer0613,2022-06-13,383.36,-1,Pancit Canton
-Customer0614,2022-05-09,71.95,-1,Halo-Halo
-Customer0615,2022-01-31,334.26,-1,Lumpia
-Customer0616,2022-11-16,162.7,-1,Lechon
-Customer0617,2022-06-30,44.81,-1,Lechon
-Customer0618,2022-03-24,747.46,-1,Adobo
-Customer0619,2022-10-27,339.08,-1,Pancit Canton
-Customer0620,2022-02-08,898.66,-1,Lumpia
-Customer0621,2022-06-15,111.73,-1,Tinolang Manok
-Customer0622,2022-09-04,202.64,-1,Kare-Kare
-Customer0623,2022-08-23,688.58,-1,Bicol Express
-Customer0624,2022-12-27,825.07,-1,Lumpia
-Customer0625,2022-08-09,68.88,-1,Halo-Halo
-Customer0626,2022-11-25,362.86,-1,Halo-Halo
-Customer0627,2022-09-06,64.91,-1,Halo-Halo
-Customer0628,2022-01-25,343.2,-1,Halo-Halo
-Customer0629,2022-03-20,550.06,-1,Adobo
-Customer0630,2022-09-07,945.66,-1,Halo-Halo
-Customer0631,2022-04-05,618.03,-1,Adobo
-Customer0632,2022-02-16,274.6,-1,Sinigang
-Customer0633,2022-07-31,835.82,-1,Laing
-Customer0634,2022-04-20,459.26,-1,Lumpia
-Customer0635,2022-08-16,677.71,-1,Bicol Express
-Customer0636,2022-06-02,915.65,-1,Laing
-Customer0637,2022-06-10,390.08,-1,Bicol Express
-Customer0638,2022-08-14,772.46,-1,Halo-Halo
-Customer0639,2022-01-06,441.21,-1,Halo-Halo
-Customer0640,2022-12-22,263.64,-1,Laing
-Customer0641,2022-05-26,961.46,-1,Halo-Halo
-Customer0642,2022-09-16,399.77,-1,Pancit Canton
-Customer0643,2022-09-15,102.82,-1,Tinolang Manok
-Customer0644,2022-07-27,900.07,-1,Lumpia
-Customer0645,2022-10-24,333.49,-1,Bicol Express
-Customer0646,2022-10-12,298.29,-1,Lumpia
-Customer0647,2022-04-04,615.98,-1,Lumpia
-Customer0648,2022-09-12,460.78,-1,Adobo
-Customer0649,2022-11-17,569.44,-1,Lechon
-Customer0650,2022-03-21,723.84,-1,Lechon
-Customer0651,2022-10-06,662.6,-1,Adobo
-Customer0652,2022-10-25,73.25,-1,Adobo
-Customer0653,2022-10-13,360.21,-1,Laing
-Customer0654,2022-01-22,301.79,-1,Lumpia
-Customer0655,2022-03-26,472.02,-1,Laing
-Customer0656,2022-10-01,200.88,-1,Sinigang
-Customer0657,2022-09-13,542.68,-1,Tinolang Manok
-Customer0658,2022-07-10,36.09,-1,Pancit Canton
-Customer0659,2022-07-19,12.95,-1,Kare-Kare
-Customer0660,2022-12-26,941.51,-1,Adobo
-Customer0661,2022-02-22,460.85,-1,Laing
-Customer0662,2022-11-01,489.84,-1,Pancit Canton
-Customer0663,2022-06-27,822.57,-1,Adobo
-Customer0664,2022-05-21,886.18,-1,Bicol Express
-Customer0665,2022-03-11,742.15,-1,Halo-Halo
-Customer0666,2022-10-28,547.31,-1,Laing
-Customer0667,2022-03-20,810.66,-1,Adobo
-Customer0668,2022-09-04,612.14,-1,Lechon
-Customer0669,2022-11-21,10.84,-1,Bicol Express
-Customer0670,2022-05-04,591.89,-1,Adobo
-Customer0671,2022-10-16,503.4,-1,Lechon
-Customer0672,2022-04-23,326.54,-1,Bicol Express
-Customer0673,2022-09-11,282.0,-1,Laing
-Customer0674,2022-03-25,812.38,-1,Bicol Express
-Customer0675,2022-12-07,180.53,-1,Lumpia
-Customer0676,2022-04-08,862.15,-1,Lumpia
-Customer0677,2022-07-13,783.47,-1,Tinolang Manok
-Customer0678,2022-08-15,507.57,-1,Laing
-Customer0679,2022-02-17,156.42,-1,Lumpia
-Customer0680,2022-09-03,404.3,-1,Kare-Kare
-Customer0681,2022-08-12,613.05,-1,Lumpia
-Customer0682,2022-07-13,176.83,-1,Lumpia
-Customer0683,2022-05-25,755.82,-1,Lechon
-Customer0684,2022-02-09,630.27,-1,Halo-Halo
-Customer0685,2022-03-29,461.6,-1,Laing
-Customer0686,2022-03-03,786.4,-1,Lechon
-Customer0687,2022-12-02,400.58,-1,Pancit Canton
-Customer0688,2022-02-28,948.17,-1,Lumpia
-Customer0689,2022-10-11,974.73,-1,Laing
-Customer0690,2022-01-17,457.75,-1,Tinolang Manok
-Customer0691,2022-04-28,269.21,-1,Adobo
-Customer0692,2022-05-28,748.84,-1,Sinigang
-Customer0693,2022-06-09,300.43,-1,Adobo
-Customer0694,2022-06-24,635.45,-1,Tinolang Manok
-Customer0695,2022-03-02,987.77,-1,Sinigang
-Customer0696,2022-04-18,250.19,-1,Lumpia
-Customer0697,2022-10-10,771.1,-1,Halo-Halo
-Customer0698,2022-12-04,457.26,-1,Adobo
-Customer0699,2022-07-15,778.67,-1,Lechon
-Customer0700,2022-11-01,431.98,-1,Halo-Halo
-Customer0701,2022-05-23,564.72,-1,Halo-Halo
-Customer0702,2022-10-19,267.5,-1,Lechon
-Customer0703,2022-10-30,153.46,-1,Sinigang
-Customer0704,2022-04-26,788.34,-1,Pancit Canton
-Customer0705,2022-04-24,609.0,-1,Adobo
-Customer0706,2022-01-23,278.4,-1,Pancit Canton
-Customer0707,2022-06-04,311.71,-1,Tinolang Manok
-Customer0708,2022-01-30,412.97,-1,Bicol Express
-Customer0709,2022-07-08,771.96,-1,Adobo
-Customer0710,2022-09-23,851.38,-1,Pancit Canton
-Customer0711,2022-12-13,522.02,-1,Lechon
-Customer0712,2022-10-09,729.71,-1,Tinolang Manok
-Customer0713,2022-09-18,149.04,-1,Lumpia
-Customer0714,2022-09-13,558.38,-1,Laing
-Customer0715,2022-03-31,153.27,-1,Kare-Kare
-Customer0716,2022-03-22,892.19,-1,Bicol Express
-Customer0717,2022-11-01,857.96,-1,Halo-Halo
-Customer0718,2022-07-01,786.61,-1,Kare-Kare
-Customer0719,2022-04-22,396.42,-1,Laing
-Customer0720,2022-09-22,463.71,-1,Lechon
-Customer0721,2022-02-18,124.72,-1,Bicol Express
-Customer0722,2022-09-03,151.81,-1,Halo-Halo
-Customer0723,2022-09-29,872.1,-1,Pancit Canton
-Customer0724,2022-11-08,442.12,-1,Halo-Halo
-Customer0725,2022-12-30,810.24,-1,Tinolang Manok
-Customer0726,2022-04-02,230.27,-1,Adobo
-Customer0727,2022-12-25,199.04,-1,Pancit Canton
-Customer0728,2022-05-20,828.34,-1,Lumpia
-Customer0729,2022-10-23,75.26,-1,Lechon
-Customer0730,2022-07-19,691.83,-1,Pancit Canton
-Customer0731,2022-04-09,290.03,-1,Lechon
-Customer0732,2022-11-25,220.05,-1,Adobo
-Customer0733,2022-09-06,160.56,-1,Tinolang Manok
-Customer0734,2022-09-03,68.72,-1,Kare-Kare
-Customer0735,2022-04-19,346.13,-1,Bicol Express
-Customer0736,2022-06-22,986.7,-1,Sinigang
-Customer0737,2022-08-17,174.82,-1,Halo-Halo
-Customer0738,2022-11-06,117.46,-1,Adobo
-Customer0739,2022-10-20,156.21,-1,Kare-Kare
-Customer0740,2022-11-28,18.95,-1,Pancit Canton
-Customer0741,2022-05-18,178.95,-1,Laing
-Customer0742,2022-12-04,213.73,-1,Tinolang Manok
-Customer0743,2022-01-01,256.52,-1,Kare-Kare
-Customer0744,2022-08-26,395.99,-1,Tinolang Manok
-Customer0745,2022-07-31,137.34,-1,Sinigang
-Customer0746,2022-12-07,791.67,-1,Lechon
-Customer0747,2022-02-07,175.04,-1,Lumpia
-Customer0748,2022-11-14,699.74,-1,Kare-Kare
-Customer0749,2022-05-10,428.19,-1,Kare-Kare
-Customer0750,2022-04-29,409.95,-1,Kare-Kare
-Customer0751,2022-04-04,489.46,4,Tinolang Manok
-Customer0752,2022-12-12,605.57,1,Laing
-Customer0753,2022-09-27,305.27,5,Laing
-Customer0754,2022-02-21,100.99,9,Sinigang
-Customer0755,2022-05-25,78.4,5,Kare-Kare
-Customer0756,2022-07-21,843.42,1,Lumpia
-Customer0757,2022-03-12,397.21,9,Bicol Express
-Customer0758,2022-07-01,485.34,2,Bicol Express
-Customer0759,2022-03-09,537.96,1,Kare-Kare
-Customer0760,2022-08-19,259.35,10,Pancit Canton
-Customer0761,2022-08-23,209.87,9,Tinolang Manok
-Customer0762,2022-03-13,900.22,3,Halo-Halo
-Customer0763,2022-04-28,239.83,4,Kare-Kare
-Customer0764,2022-02-10,310.46,8,Laing
-Customer0765,2022-04-12,184.96,6,Tinolang Manok
-Customer0766,2022-11-08,731.12,8,Bicol Express
-Customer0767,2022-08-29,780.92,5,Bicol Express
-Customer0768,2022-05-11,989.89,10,Tinolang Manok
-Customer0769,2022-08-12,636.18,7,Tinolang Manok
-Customer0770,2022-09-20,247.07,5,Lechon
-Customer0771,2022-02-19,354.76,4,Tinolang Manok
-Customer0772,2022-11-06,14.31,5,Pancit Canton
-Customer0773,2022-09-21,442.75,8,Laing
-Customer0774,2022-05-08,498.48,6,Sinigang
-Customer0775,2022-08-05,875.49,3,Pancit Canton
-Customer0776,2022-04-18,633.22,1,Halo-Halo
-Customer0777,2022-04-29,685.53,10,Pancit Canton
-Customer0778,2022-08-12,213.19,5,Lechon
-Customer0779,2022-07-27,911.24,10,Lechon
-Customer0780,2022-06-11,423.06,4,Pancit Canton
-Customer0781,2022-09-07,862.1,3,Lumpia
-Customer0782,2022-03-23,469.71,9,Adobo
-Customer0783,2022-04-27,10.15,2,Adobo
-Customer0784,2022-07-29,225.72,9,Bicol Express
-Customer0785,2022-10-06,491.52,6,Bicol Express
-Customer0786,2022-02-21,489.08,6,Lumpia
-Customer0787,2022-01-01,590.26,6,Tinolang Manok
-Customer0788,2022-07-15,26.46,6,Sinigang
-Customer0789,2022-07-21,453.03,1,Bicol Express
-Customer0790,2022-02-12,965.58,5,Lumpia
-Customer0791,2022-08-07,540.33,2,Bicol Express
-Customer0792,2022-10-31,360.56,10,Adobo
-Customer0793,2022-10-05,604.62,6,Bicol Express
-Customer0794,2022-04-02,808.93,3,Sinigang
-Customer0795,2022-08-10,96.77,5,Adobo
-Customer0796,2022-03-11,960.16,6,Bicol Express
-Customer0797,2022-07-02,878.65,4,Sinigang
-Customer0798,2022-05-18,144.53,7,Laing
-Customer0799,2022-06-09,953.13,8,Bicol Express
-Customer0800,2022-11-06,715.52,10,Laing
-Customer0801,2022-07-27,265.45,7,Pancit Canton
-Customer0802,2022-02-12,672.23,5,Bicol Express
-Customer0803,2022-10-07,216.19,10,Laing
-Customer0804,2022-05-18,792.59,5,Halo-Halo
-Customer0805,2022-07-24,305.24,3,Pancit Canton
-Customer0806,2022-02-06,285.02,10,Bicol Express
-Customer0807,2022-04-13,987.76,1,Sinigang
-Customer0808,2022-04-08,984.77,5,Lumpia
-Customer0809,2022-10-27,81.12,5,Sinigang
-Customer0810,2022-09-04,948.37,4,Bicol Express
-Customer0811,2022-08-26,530.42,10,Lechon
-Customer0812,2022-03-10,45.37,9,Laing
-Customer0813,2022-03-17,994.75,1,Sinigang
-Customer0814,2022-11-08,554.26,4,Halo-Halo
-Customer0815,2022-07-22,667.97,4,Laing
-Customer0816,2022-10-22,160.79,10,Lumpia
-Customer0817,2022-12-16,41.51,3,Sinigang
-Customer0818,2022-01-01,822.07,10,Halo-Halo
-Customer0819,2022-09-18,95.23,1,Halo-Halo
-Customer0820,2022-10-17,770.76,7,Pancit Canton
-Customer0821,2022-01-08,681.5,10,Bicol Express
-Customer0822,2022-09-07,397.56,10,Halo-Halo
-Customer0823,2022-06-11,656.06,8,Sinigang
-Customer0824,2022-09-18,370.43,10,Bicol Express
-Customer0825,2022-12-24,364.49,2,Lechon
-Customer0826,2022-01-26,83.95,9,Halo-Halo
-Customer0827,2022-10-19,10.65,7,Lumpia
-Customer0828,2022-04-09,983.68,3,Sinigang
-Customer0829,2022-07-27,398.16,9,Lumpia
-Customer0830,2022-04-23,790.61,1,Lumpia
-Customer0831,2022-10-23,439.64,7,Laing
-Customer0832,2022-08-13,171.14,3,Kare-Kare
-Customer0833,2022-02-03,989.14,7,Adobo
-Customer0834,2022-10-30,205.91,3,Lechon
-Customer0835,2022-04-18,81.41,9,Bicol Express
-Customer0836,2022-09-19,521.1,3,Tinolang Manok
-Customer0837,2022-12-12,60.15,1,Tinolang Manok
-Customer0838,2022-01-20,932.69,7,Halo-Halo
-Customer0839,2022-12-10,204.49,8,Lechon
-Customer0840,2022-07-01,701.14,7,Lechon
-Customer0841,2022-05-27,851.31,3,Adobo
-Customer0842,2022-08-17,454.48,8,Bicol Express
-Customer0843,2022-07-13,131.22,4,Lumpia
-Customer0844,2022-11-25,568.85,10,Bicol Express
-Customer0845,2022-02-18,628.34,2,Bicol Express
-Customer0846,2022-07-23,427.04,2,Laing
-Customer0847,2022-07-21,113.92,8,Halo-Halo
-Customer0848,2022-08-13,575.63,8,Adobo
-Customer0849,2022-09-27,955.3,3,Lechon
-Customer0850,2022-02-03,651.2,7,Sinigang
-Customer0851,2022-11-07,300.49,1,Pancit Canton
-Customer0852,2022-09-19,11.59,6,Tinolang Manok
-Customer0853,2022-07-15,714.06,3,Lechon
-Customer0854,2022-07-10,818.86,3,Lechon
-Customer0855,2022-06-13,716.6,8,Kare-Kare
-Customer0856,2022-07-08,700.37,7,Halo-Halo
-Customer0857,2022-05-16,173.01,8,Pancit Canton
-Customer0858,2022-10-25,890.19,2,Laing
-Customer0859,2022-03-25,508.93,10,Tinolang Manok
-Customer0860,2022-03-22,786.03,6,Tinolang Manok
-Customer0861,2022-10-09,466.8,4,Adobo
-Customer0862,2022-03-16,493.89,2,Halo-Halo
-Customer0863,2022-02-01,921.7,1,Adobo
-Customer0864,2022-09-11,194.17,10,Pancit Canton
-Customer0865,2022-08-06,824.56,4,Sinigang
-Customer0866,2022-03-19,291.7,4,Pancit Canton
-Customer0867,2022-01-12,842.23,3,Kare-Kare
-Customer0868,2022-05-10,532.79,1,Kare-Kare
-Customer0869,2022-12-25,994.55,6,Lumpia
-Customer0870,2022-07-30,534.49,1,Lumpia
-Customer0871,2022-12-27,734.32,4,Lechon
-Customer0872,2022-08-13,970.86,1,Adobo
-Customer0873,2022-11-19,932.29,3,Lumpia
-Customer0874,2022-09-26,909.84,10,Halo-Halo
-Customer0875,2022-08-27,869.58,9,Halo-Halo
-Customer0876,2022-03-05,186.37,10,Lumpia
-Customer0877,2022-05-29,201.23,3,Lechon
-Customer0878,2022-06-17,715.24,10,Adobo
-Customer0879,2022-02-08,856.0,5,Bicol Express
-Customer0880,2022-05-12,586.88,1,Kare-Kare
-Customer0881,2022-05-15,860.05,8,Laing
-Customer0882,2022-05-31,667.55,6,Pancit Canton
-Customer0883,2022-09-15,274.58,4,Lumpia
-Customer0884,2022-12-20,405.1,1,Bicol Express
-Customer0885,2022-02-21,400.61,2,Lumpia
-Customer0886,2022-06-17,236.39,7,Lumpia
-Customer0887,2022-07-07,391.29,2,Kare-Kare
-Customer0888,2022-10-28,970.84,8,Lechon
-Customer0889,2022-04-20,237.54,7,Pancit Canton
-Customer0890,2022-03-27,519.68,5,Pancit Canton
-Customer0891,2022-11-07,267.18,10,Sinigang
-Customer0892,2022-09-26,320.58,8,Kare-Kare
-Customer0893,2022-02-18,139.85,2,Lechon
-Customer0894,2022-11-25,661.2,3,Sinigang
-Customer0895,2022-03-19,137.49,6,Lechon
-Customer0896,2022-09-17,304.28,1,Halo-Halo
-Customer0897,2022-05-21,568.05,2,Adobo
-Customer0898,2022-05-02,831.69,4,Sinigang
-Customer0899,2022-09-12,297.9,6,Sinigang
-Customer0900,2022-06-28,973.84,6,Lumpia
-Customer0901,2022-10-04,779.35,8,Bicol Express
-Customer0902,2022-03-28,310.85,1,Tinolang Manok
-Customer0903,2022-08-29,894.0,3,Kare-Kare
-Customer0904,2022-09-19,483.75,4,Kare-Kare
-Customer0905,2022-01-12,443.89,4,Laing
-Customer0906,2022-04-01,52.26,1,Halo-Halo
-Customer0907,2022-04-17,627.13,9,Kare-Kare
-Customer0908,2022-09-10,896.23,2,Lechon
-Customer0909,2022-06-28,908.01,10,Lechon
-Customer0910,2022-09-10,447.87,8,Bicol Express
-Customer0911,2022-09-18,199.84,2,Bicol Express
-Customer0912,2022-03-25,227.7,4,Laing
-Customer0913,2022-09-28,120.54,8,Sinigang
-Customer0914,2022-05-16,921.88,9,Tinolang Manok
-Customer0915,2022-12-09,429.63,10,Lechon
-Customer0916,2022-01-15,635.64,8,Kare-Kare
-Customer0917,2022-06-23,963.65,6,Tinolang Manok
-Customer0918,2022-03-13,508.43,7,Laing
-Customer0919,2022-06-07,335.89,9,Sinigang
-Customer0920,2022-05-30,162.22,6,Lechon
-Customer0921,2022-02-12,922.13,7,Pancit Canton
-Customer0922,2022-11-06,313.02,7,Bicol Express
-Customer0923,2022-09-25,880.85,9,Pancit Canton
-Customer0924,2022-11-16,136.05,6,Laing
-Customer0925,2022-01-25,118.24,2,Pancit Canton
-Customer0926,2022-08-20,75.53,10,Lechon
-Customer0927,2022-10-21,195.4,2,Bicol Express
-Customer0928,2022-09-16,862.73,8,Laing
-Customer0929,2022-08-04,484.27,8,Laing
-Customer0930,2022-04-03,799.09,4,Halo-Halo
-Customer0931,2022-11-23,976.71,10,Laing
-Customer0932,2022-09-04,432.14,7,Pancit Canton
-Customer0933,2022-04-24,711.11,10,Kare-Kare
-Customer0934,2022-05-21,50.78,6,Laing
-Customer0935,2022-09-05,380.34,9,Tinolang Manok
-Customer0936,2022-08-31,260.66,8,Sinigang
-Customer0937,2022-01-06,25.72,5,Lechon
-Customer0938,2022-12-21,67.42,6,Lumpia
-Customer0939,2022-10-23,792.63,5,Sinigang
-Customer0940,2022-12-30,652.71,2,Bicol Express
-Customer0941,2022-05-21,606.88,7,Laing
-Customer0942,2022-09-07,530.75,3,Tinolang Manok
-Customer0943,2022-06-11,641.55,10,Kare-Kare
-Customer0944,2022-07-13,809.95,4,Sinigang
-Customer0945,2022-05-19,254.54,4,Pancit Canton
-Customer0946,2022-12-14,394.04,5,Laing
-Customer0947,2022-07-14,110.98,5,Tinolang Manok
-Customer0948,2022-10-02,914.61,3,Halo-Halo
-Customer0949,2022-11-23,26.2,8,Lumpia
-Customer0950,2022-08-27,523.85,2,Tinolang Manok
-Customer0951,2022-01-03,619.44,3,Tinolang Manok
-Customer0952,2022-01-18,401.2,6,Kare-Kare
-Customer0953,2022-10-01,416.61,8,Tinolang Manok
-Customer0954,2022-02-25,651.62,2,Pancit Canton
-Customer0955,2022-05-03,165.37,7,Lumpia
-Customer0956,2022-11-24,583.24,6,Kare-Kare
-Customer0957,2022-03-15,286.69,9,Tinolang Manok
-Customer0958,2022-03-13,410.98,3,Bicol Express
-Customer0959,2022-07-04,890.24,8,Halo-Halo
-Customer0960,2022-05-16,249.42,8,Tinolang Manok
-Customer0961,2022-03-16,420.16,1,Tinolang Manok
-Customer0962,2022-06-02,478.74,10,Lechon
-Customer0963,2022-06-20,848.51,1,Pancit Canton
-Customer0964,2022-01-14,845.46,2,Lumpia
-Customer0965,2022-06-16,860.63,2,Adobo
-Customer0966,2022-12-23,458.65,7,Lumpia
-Customer0967,2022-06-25,18.7,1,Laing
-Customer0968,2022-12-15,231.71,2,Lumpia
-Customer0969,2022-04-23,660.81,6,Laing
-Customer0970,2022-06-29,585.36,9,Kare-Kare
-Customer0971,2022-11-01,956.37,8,Kare-Kare
-Customer0972,2022-07-31,644.38,4,Lumpia
-Customer0973,2022-10-23,300.27,10,Halo-Halo
-Customer0974,2022-10-11,49.58,3,Tinolang Manok
-Customer0975,2022-07-29,495.24,4,Sinigang
-Customer0976,2022-11-30,630.81,8,Tinolang Manok
-Customer0977,2022-08-11,137.85,9,Bicol Express
-Customer0978,2022-06-04,22.06,7,Lumpia
-Customer0979,2022-04-25,340.32,10,Lechon
-Customer0980,2022-03-30,855.94,9,Kare-Kare
-Customer0981,2022-12-11,36.37,1,Laing
-Customer0982,2022-02-28,335.24,9,Adobo
-Customer0983,2022-10-22,295.38,7,Sinigang
-Customer0984,2022-02-04,846.11,8,Halo-Halo
-Customer0985,2022-10-01,647.89,6,Halo-Halo
-Customer0986,2022-08-13,249.57,5,Tinolang Manok
-Customer0987,2022-04-02,635.25,2,Adobo
-Customer0988,2022-11-01,109.82,9,Lumpia
-Customer0989,2022-12-02,651.04,10,Pancit Canton
-Customer0990,2022-08-16,223.64,3,Lechon
-Customer0991,2022-10-04,789.0,3,Lechon
-Customer0992,2022-12-27,877.72,1,Lechon
-Customer0993,2022-06-24,416.04,10,Adobo
-Customer0994,2022-06-14,966.83,8,Tinolang Manok
-Customer0995,2022-04-29,915.6,4,Laing
-Customer0996,2022-01-03,726.76,2,Kare-Kare
-Customer0997,2022-03-02,544.97,2,Bicol Express
-Customer0998,2022-11-15,64.98,2,Tinolang Manok
-Customer0999,2022-02-12,965.01,10,Lumpia
-Customer1000,2022-06-04,728.88,3,Lumpia
+CustomerID,PurchaseDate,PurchaseAmount,PurchaseCount,InvoiceNo,Product
+4957,2022-11-08,29.91,3,HX3XDF0J,Taho
+9796,2022-12-01,30.77,10,64HMODX1,Pancit Canton
+1011,2022-02-01,69.03,4,XITIQP4D,Taho
+5757,2022-02-08,138.29,8,NN6SLGF2,Lechon
+2713,2022-08-24,190.79,-1,2FWOWKOE,Sinigang
+8616,2022-09-23,68.66,2,A3AFQEHN,Halo-Halo
+4487,2022-03-08,125.02,3,249RUJMQ,Balut
+5355,2022-02-05,54.94,4,LTXOE029,Laing
+7395,2022-02-15,129.86,8,WJ9BY94K,Bicol Express
+2497,2022-07-08,146.11,8,YTRO95Z2,Sinigang
+3250,2022-12-28,65.38,2,Z50DYT3Z,Lechon
+8739,2022-11-29,122.67,3,XEE2ZQBE,Pancit Canton
+1413,2022-07-18,121.82,-1,XSESYLUP,Laing
+9817,2022-03-04,109.34,5,MMSLBA1K,Laing
+6452,2022-07-07,166.43,0,O3MGVIZQ,Kare-Kare
+6020,2022-08-27,157.31,5,TTHJD8RW,Lechon
+5801,2022-01-09,77.66,2,AWUW4AJC,Balut
+3456,2022-11-20,197.33,3,GJG99KD3,Lechon
+5832,2022-12-26,87.85,8,BDLTW2PM,Balut
+1596,2022-01-20,104.65,0,ZUNNFAYV,Sinigang
+9572,2022-08-15,53.58,4,E63V5EQB,Adobo
+8367,2022-06-07,147.66,10,Y5HSFOTZ,Balut
+5680,2022-06-13,113.84,9,BPPQWQ0J,Halo-Halo
+2235,2022-06-17,31.4,6,RZ6SCLTI,Balut
+1574,2022-11-08,64.49,0,XHRO5U3G,Lechon
+2804,2022-02-23,131.45,3,7K7X4P7F,Lechon
+5366,2022-02-06,134.65,4,TKYFKERF,Sinigang
+6915,2022-09-10,94.78,7,JQRMTIY9,Taho
+9021,2022-11-19,108.3,-1,TR1UWDJH,Laing
+6530,2022-05-04,65.84,9,VHGOG8ID,Balut
+4363,2022-07-21,124.23,5,NYHQSFAP,Halo-Halo
+2897,2022-01-03,124.7,7,2A1CK7PO,Lechon
+9877,2022-05-09,132.21,0,GC14UYB0,Laing
+8198,2022-02-15,132.13,9,83C1927Y,Pancit Canton
+8226,2022-07-14,44.65,9,V4AG5O3X,Sinigang
+6374,2022-08-26,69.86,9,HGSHI1Y4,Lechon
+7622,2022-04-04,175.07,2,1RICE3ZH,Kare-Kare
+3920,2022-01-12,192.93,-1,EY5PR7BO,Taho
+3921,2022-07-06,147.67,6,9IK68EA6,Halo-Halo
+3571,2022-12-02,80.62,4,OSV3DO6M,Sinigang
+3801,2022-08-06,130.59,5,QM3BV4YR,Sinigang
+5401,2022-02-22,160.96,9,HQ9WCORW,Pancit Canton
+8535,2022-02-02,78.18,2,24KGJTP2,Bicol Express
+3213,2022-03-05,59.14,8,6WPX2BMZ,Bicol Express
+5290,2022-12-08,81.75,2,L83IVNMG,Balut
+5558,2022-04-05,24.34,4,AV0TXIUG,Balut
+2399,2022-07-16,155.41,5,GKIS1UN1,Pancit Canton
+7691,2022-09-03,104.41,-1,CYRM87HT,Laing
+6502,2022-05-12,69.6,10,C4TFA941,Halo-Halo
+1123,2022-03-14,131.76,10,E7Y9GWP2,Kare-Kare
+8309,2022-02-06,111.94,9,LZVB4A69,Lechon
+9100,2022-04-30,81.2,10,HIFYC9CN,Pancit Canton
+9237,2022-01-21,14.16,2,UNTFLK3J,Pancit Canton
+5218,2022-06-18,28.86,-1,JO1E9XH5,Bicol Express
+5652,2022-02-09,115.07,4,KJGEWUNB,Taho
+6537,2022-12-28,175.31,1,W87ST1FL,Halo-Halo
+1305,2022-07-04,60.16,2,ESLPTZF9,Sinigang
+1647,2022-04-10,67.23,6,93549QO2,Pancit Canton
+2960,2022-05-12,64.49,4,ED9JXOX7,Bicol Express
+3775,2022-03-09,82.03,8,D71DNK2N,Laing
+5382,2022-04-03,74.38,10,GC0IB7BS,Pancit Canton
+9469,2022-10-26,68.23,5,3MXIOKT6,Halo-Halo
+7538,2022-01-26,70.73,0,ZX7HPERZ,Balut
+3428,2022-02-03,81.7,6,3F0UWN81,Laing
+4648,2022-08-20,160.18,10,VPZLC4TG,Laing
+6099,2022-12-03,55.79,0,WKULE9DH,Balut
+7088,2022-02-27,100.46,9,GROC8ZGN,Lechon
+2805,2022-05-06,86.14,9,8A85T38N,Kare-Kare
+8028,2022-08-02,145.88,4,K3KXEZ67,Adobo
+1019,2022-03-22,58.83,7,YHQPZSY2,Sinigang
+7226,2022-06-12,76.95,3,D4JPU670,Taho
+5936,2022-04-23,73.95,9,SXX24U8W,Balut
+9905,2022-12-30,167.62,0,WNF68MCS,Sinigang
+2751,2022-09-19,22.41,10,L9F7M6IJ,Taho
+4449,2022-09-02,70.48,-1,V6NVCDW4,Balut
+8506,2022-03-04,106.22,10,41TJ6IS3,Balut
+1822,2022-03-14,193.99,9,S1XZ5PVQ,Lechon
+1654,2022-07-28,46.04,-1,M1CMEE71,Lechon
+5057,2022-03-20,132.2,-1,5EMCJO77,Laing
+5014,2022-10-20,185.39,6,9KWKT5D7,Balut
+6120,2022-12-14,102.0,6,SFWWC623,Bicol Express
+1644,2022-05-21,26.28,5,BCRFIVM0,Sinigang
+9159,2022-07-25,35.64,2,8EPFOMOC,Laing
+4276,2022-04-26,16.5,5,82IUTU3A,Taho
+9933,2022-11-13,170.32,3,NUCBI305,Balut
+5890,2022-01-15,189.86,5,GI7AOTZM,Lechon
+8969,2022-11-26,174.8,7,S8B3REU2,Halo-Halo
+2521,2022-11-01,136.42,1,WOG471R4,Halo-Halo
+1552,2022-11-06,95.69,8,PHMZ8SLO,Bicol Express
+7786,2022-01-31,124.58,5,AI24DSB5,Pancit Canton
+2715,2022-07-15,193.93,0,D1PNEV4Z,Sinigang
+8571,2022-09-14,78.49,9,8E5U4418,Taho
+6236,2022-05-18,156.56,2,P5VLI7N4,Halo-Halo
+9468,2022-12-24,100.67,3,QT5O8K0X,Sinigang
+6376,2022-04-12,49.81,8,QK1YQIQ7,Pancit Canton
+9782,2022-10-19,149.01,8,P7K6GNIZ,Sinigang
+4819,2022-07-18,162.44,7,X5XW4JWW,Taho
+2974,2022-01-26,74.56,6,Y10O2DNV,Lechon
+2477,2022-03-13,182.72,9,QHRJT6EO,Laing
+9586,2022-02-02,82.61,6,ODUYQGII,Adobo
+5697,2022-10-26,162.78,1,69RE870T,Adobo
+2047,2022-11-08,23.9,7,79PH3A38,Balut
+8011,2022-11-13,139.22,8,ZL3D2HUW,Pancit Canton
+8613,2022-10-25,114.21,0,Z9TVONW4,Kare-Kare
+4811,2022-07-29,14.19,9,2NH45JF1,Lechon
+4338,2022-06-01,122.9,5,4CWY108C,Lechon
+2344,2022-10-24,67.68,10,23SBIVNG,Lechon
+8313,2022-02-05,154.23,2,0J32TMIC,Kare-Kare
+2493,2022-02-18,57.91,1,2AAWDA0P,Kare-Kare
+2394,2022-01-16,165.2,-1,24L5O6QW,Sinigang
+9305,2022-04-23,98.45,1,2EOVICV7,Lechon
+7134,2022-01-18,39.31,9,LBTTVBOK,Sinigang
+9226,2022-08-22,162.99,-1,FK1F8RQE,Laing
+4751,2022-11-27,41.18,8,XWHZJC2S,Bicol Express
+4055,2022-03-04,22.75,7,KM5ZP9VJ,Laing
+9718,2022-02-13,133.62,-1,PS8A2P8O,Pancit Canton
+8690,2022-04-23,193.65,-1,PQGBKA0C,Laing
+9716,2022-12-24,106.59,1,MBJBC8F6,Adobo
+8601,2022-04-26,196.01,7,1GUIUPFR,Sinigang
+4356,2022-12-30,91.55,4,YQBDZZ7C,Adobo
+9895,2022-08-15,83.52,6,AMKF8Q1M,Bicol Express
+9949,2022-09-20,87.65,4,ZE6AZG6Y,Bicol Express
+6148,2022-01-10,46.23,1,KFXYDPRV,Pancit Canton
+5994,2022-12-05,157.43,0,RZ9CAXVD,Adobo
+1239,2022-11-07,40.13,7,VGPYHLWX,Lechon
+1415,2022-01-08,167.14,5,DVEZJJM5,Lechon
+2736,2022-07-21,25.83,9,7SKVB5A3,Taho
+1076,2022-03-01,46.79,8,K9X65BIK,Balut
+3242,2022-03-09,109.46,9,EQZ6644M,Taho
+8223,2022-05-23,196.83,10,IJ94U148,Adobo
+8050,2022-07-25,171.74,7,H5Z5IQB1,Pancit Canton
+8534,2022-07-06,71.22,3,HZFNSZ07,Laing
+7573,2022-11-24,168.28,2,YP3Q35KE,Bicol Express
+6881,2022-12-23,64.5,7,Z4MWXLPH,Laing
+9181,2022-06-29,123.87,4,JIC39IIP,Bicol Express
+6407,2022-02-01,166.29,7,H4AVXK6O,Adobo
+5938,2022-07-19,82.56,9,CM9DPRQ4,Laing
+6574,2022-10-10,176.68,5,YBOD402P,Taho
+3297,2022-08-09,98.43,-1,ZE92O0DO,Lechon
+2764,2022-09-20,144.93,2,RMEECTUN,Adobo
+8589,2022-03-29,66.34,7,GYUI1HRV,Taho
+4974,2022-03-29,61.48,5,LMZT5DIB,Pancit Canton
+4757,2022-02-14,109.77,5,KI157Q0O,Halo-Halo
+5483,2022-06-17,72.31,3,CJUNRMXQ,Kare-Kare
+2070,2022-01-14,191.36,0,Y4VQ37VP,Bicol Express
+5286,2022-07-10,194.58,8,JWD0XH56,Bicol Express
+2617,2022-03-28,96.75,2,LSXDPLIA,Taho
+9731,2022-08-04,90.74,3,WEXV2XRF,Halo-Halo
+1762,2022-11-07,166.44,3,CAK8IBX5,Pancit Canton
+1226,2022-08-07,111.51,1,P0FTCRLN,Laing
+4127,2022-07-23,165.36,3,PCO6MOK5,Pancit Canton
+5583,2022-05-06,102.35,0,UFKV78CU,Balut
+6372,2022-03-11,127.31,9,KTKU4KQ0,Sinigang
+6096,2022-06-26,155.28,8,VMN2S98T,Sinigang
+1580,2022-09-15,193.94,9,HSDPTKG3,Taho
+2162,2022-04-24,109.04,7,8UMWE6HQ,Pancit Canton
+9546,2022-06-25,141.68,8,CLW9L952,Halo-Halo
+1328,2022-11-09,30.96,10,KVHLLCBS,Balut
+6117,2022-02-21,30.7,4,4467A2Q6,Bicol Express
+5237,2022-09-16,179.09,9,A7X06CUJ,Kare-Kare
+3241,2022-03-29,135.38,3,IXNV707O,Laing
+5478,2022-02-28,134.39,8,SW3AJY4D,Bicol Express
+7576,2022-02-09,21.34,2,GKQRG7KW,Pancit Canton
+1870,2022-10-03,88.1,5,XE1YY9JV,Taho
+7940,2022-11-16,59.47,5,JXB8BANM,Balut
+7462,2022-01-01,33.99,8,U5O0R73Z,Adobo
+4657,2022-08-26,55.12,1,LD3PICUV,Balut
+8244,2022-03-19,127.59,6,U8W37VZ8,Halo-Halo
+3638,2022-05-20,126.31,5,IFUXW693,Sinigang
+6451,2022-11-13,62.33,1,N54IXEZ0,Halo-Halo
+5973,2022-05-05,65.49,9,RXJET8CL,Taho
+1666,2022-07-17,141.42,-1,VKZZBWG4,Laing
+1653,2022-08-27,55.37,10,0W0JNPID,Sinigang
+3969,2022-11-01,181.71,4,2SQT38R0,Balut
+2060,2022-11-24,138.94,10,XW84F9SZ,Laing
+1561,2022-10-06,51.79,7,09JFTOWB,Pancit Canton
+5802,2022-02-05,21.51,7,SSF8N1FC,Laing
+2955,2022-05-14,109.9,2,H0TBRM4M,Taho
+2360,2022-07-29,42.03,-1,MQGO74YY,Taho
+9916,2022-06-02,192.8,9,9CA4H16U,Balut
+9019,2022-03-07,190.43,1,W0CTX58B,Taho
+8339,2022-06-20,100.16,2,HWHIYQ1L,Lechon
+2379,2022-04-01,143.88,9,VONKGWZY,Pancit Canton
+1685,2022-11-08,104.05,4,VHA14A62,Adobo
+7429,2022-12-20,145.05,10,K2L3NE6P,Taho
+6983,2022-06-14,65.96,10,OLSBXBCA,Kare-Kare
+7825,2022-09-02,67.2,-1,6Y342XLN,Sinigang
+2502,2022-10-07,27.47,6,81DKFHBM,Kare-Kare
+7953,2022-09-06,161.18,4,25X8RV9K,Lechon
+2248,2022-12-08,87.55,5,LWKRWR6R,Halo-Halo
+4318,2022-07-17,196.39,7,ZYA8GPGO,Taho
+1861,2022-03-13,131.18,1,ETCJ6IHB,Halo-Halo
+5656,2022-04-14,61.42,5,SE718XOG,Bicol Express
+7836,2022-02-05,23.93,6,TF4WQI4L,Taho
+8280,2022-06-29,127.42,1,ICMXJ8J4,Pancit Canton
+6797,2022-08-28,49.27,1,CBSF51OB,Kare-Kare
+1018,2022-01-14,24.8,7,IBRGO1PM,Halo-Halo
+9824,2022-01-30,18.09,0,25IBERN0,Lechon
+9533,2022-01-26,154.03,6,XT3Q260E,Pancit Canton
+1340,2022-08-26,134.64,4,KVA28HLT,Laing
+3800,2022-09-22,123.64,1,Z9K0E6TU,Taho
+8510,2022-01-21,138.76,8,UBQEDQ68,Adobo
+1591,2022-09-02,98.41,4,E5ZDN67L,Lechon
+2341,2022-03-12,199.06,0,2VUD56VJ,Halo-Halo
+2529,2022-06-19,43.48,1,7WUU7JTH,Taho
+5867,2022-12-09,46.75,2,TSGHHMT4,Balut
+6162,2022-12-04,194.25,7,5LM44I6Z,Taho
+6421,2022-04-13,102.49,1,EFNFXM2Z,Taho
+7273,2022-07-22,20.16,5,9L08C1GA,Adobo
+9826,2022-12-19,196.32,2,P2KSHSS6,Adobo
+5546,2022-05-07,106.06,0,Y49AKBDR,Kare-Kare
+7626,2022-11-05,92.98,-1,DSPXWJM1,Lechon
+1733,2022-08-29,199.72,7,BO401OFF,Kare-Kare
+4067,2022-06-22,33.06,1,CZH5AANE,Laing
+7861,2022-06-10,52.38,0,BA3W4QXS,Halo-Halo
+7224,2022-12-12,100.44,8,TK0DK6SC,Pancit Canton
+4242,2022-04-05,132.0,0,HZJKWHDY,Adobo
+4661,2022-01-12,46.26,-1,N8MFQHMU,Sinigang
+9029,2022-07-02,134.38,6,7DDDCC0O,Halo-Halo
+9437,2022-05-06,13.55,8,15153ZAS,Halo-Halo
+9202,2022-02-15,11.82,9,TH9ZRF4Z,Lechon
+5096,2022-04-18,129.04,10,9T0UFUDI,Kare-Kare
+1285,2022-11-12,147.07,-1,BBQ4EBCE,Pancit Canton
+8964,2022-03-26,109.27,2,K3VDXQ80,Taho
+1551,2022-03-26,171.67,3,XZQIG0E8,Bicol Express
+2596,2022-12-30,144.54,0,K5HEVJBZ,Sinigang
+8805,2022-02-21,126.82,8,5YM7SETQ,Adobo
+5996,2022-06-02,97.43,8,RP96GH7T,Sinigang
+9647,2022-12-10,81.3,-1,3QQ1R0Y8,Taho
+1371,2022-09-01,183.76,9,KS065UEF,Kare-Kare
+6621,2022-04-25,113.86,7,HMQL7U0L,Lechon
+9330,2022-11-02,36.55,6,5GKA3GS8,Lechon
+7336,2022-05-24,179.37,5,1TU5PU9Q,Halo-Halo
+2165,2022-08-15,102.74,-1,84N7CMNZ,Balut
+8389,2022-02-01,124.1,3,HHOV7JLK,Bicol Express
+6180,2022-01-07,35.53,3,BKTYZ442,Sinigang
+6238,2022-09-04,132.33,6,KM5T3AM0,Lechon
+2621,2022-06-29,127.65,0,8G8Q4UCF,Sinigang
+4376,2022-03-16,121.38,9,0JVKVEEY,Taho
+8882,2022-04-06,115.59,6,ZGR28XT1,Sinigang
+6569,2022-09-29,69.17,10,H707SS4B,Balut
+4561,2022-05-25,105.18,9,Y7SGFZAP,Laing
+4015,2022-04-05,82.48,6,IHYFZCJL,Taho
+5269,2022-02-16,133.41,7,RXE2O6NZ,Laing
+3696,2022-04-22,24.63,5,YH38UQGB,Laing
+5302,2022-10-09,177.65,8,4079S57Q,Sinigang
+1204,2022-05-07,47.37,3,3DCPEMKB,Laing
+1373,2022-01-25,51.89,0,P9LK12IU,Taho
+2915,2022-11-17,104.71,5,0JMSLEAV,Bicol Express
+6527,2022-01-13,111.94,7,LS49QEI2,Adobo
+3495,2022-01-12,51.51,2,5BR2Q54Q,Lechon
+8077,2022-06-25,29.55,3,RONWM229,Balut
+6735,2022-01-13,152.46,6,5YB8GKSS,Pancit Canton
+3973,2022-11-15,118.74,5,Q7AWLL59,Pancit Canton
+4249,2022-08-06,14.99,1,N2R34F64,Kare-Kare
+9563,2022-06-21,49.49,-1,PPMP0SV7,Pancit Canton
+5039,2022-02-17,121.04,0,FEIQ23O3,Pancit Canton
+5513,2022-03-15,166.17,1,DGIL8PIX,Taho
+2368,2022-02-28,169.49,3,DYJDPLSV,Kare-Kare
+3338,2022-07-02,68.19,6,WI3S8KO1,Adobo
+2474,2022-07-22,197.44,10,WANR4XO4,Pancit Canton
+8495,2022-10-07,82.03,9,OHDJH7II,Sinigang
+5772,2022-02-12,193.8,1,A2RHJNKN,Pancit Canton
+2614,2022-02-15,35.16,6,MR4TC4C9,Taho
+4729,2022-06-10,138.83,3,OPB4BCSR,Halo-Halo
+6129,2022-10-03,180.34,-1,MIPS131U,Pancit Canton
+1421,2022-12-06,16.26,4,9FXGUEA1,Balut
+4140,2022-12-14,33.28,3,AGABUNLT,Balut
+3315,2022-10-09,120.89,5,GI3TSDIQ,Halo-Halo
+2383,2022-07-11,145.08,6,0UZVGZ3Y,Taho
+5010,2022-01-07,121.45,-1,C1TF3GKR,Balut
+3215,2022-06-05,19.2,1,TTSY10S4,Adobo
+4704,2022-11-15,15.49,5,51LZ12S6,Sinigang
+9978,2022-03-29,50.87,0,1WB4G59U,Bicol Express
+1786,2022-02-17,106.13,6,VEQ9L7EL,Kare-Kare
+8541,2022-06-20,105.61,7,PPJDDDAP,Kare-Kare
+7885,2022-02-01,106.46,9,WBJGCQJ6,Adobo
+2209,2022-05-15,191.26,7,FRM4P40R,Lechon
+6736,2022-04-01,180.44,0,824RW2N7,Balut
+1089,2022-01-18,26.25,7,MQCJSNIP,Pancit Canton
+3102,2022-10-18,39.22,5,2M3S15GU,Balut
+9548,2022-09-01,135.21,-1,HOMUFZ03,Balut
+4987,2022-01-11,116.18,10,SCF6Z3XO,Bicol Express
+4815,2022-05-19,16.55,7,BDTGB8W5,Halo-Halo
+4348,2022-06-23,55.69,2,NVQEKCNV,Kare-Kare
+7315,2022-11-25,157.16,-1,JPY39S8O,Halo-Halo
+9153,2022-04-05,67.39,4,PTV2J9EX,Adobo
+9650,2022-10-02,157.97,4,99R8HQD5,Taho
+7444,2022-11-29,69.58,-1,UPJLEE13,Sinigang
+1971,2022-01-19,111.86,4,C0991G07,Kare-Kare
+3768,2022-03-17,64.79,3,4DFG8HHC,Taho
+9083,2022-09-27,114.07,2,UBBGKF1P,Halo-Halo
+8238,2022-12-03,10.21,3,L2SFTP90,Balut
+6416,2022-09-03,103.97,5,R1X00A59,Sinigang
+5937,2022-05-16,42.91,3,4SOGCCO6,Balut
+6189,2022-04-15,148.57,4,R60015GI,Pancit Canton
+4056,2022-01-18,172.04,10,U1FJC0RP,Balut
+5612,2022-12-01,156.02,-1,7REV1CEY,Sinigang
+7116,2022-09-20,86.79,5,GUYNWPRF,Laing
+6353,2022-06-19,94.01,5,6O73KBWV,Adobo
+7708,2022-10-11,171.04,-1,VOV4MVTE,Pancit Canton
+7471,2022-11-20,59.99,7,3RPG5HE3,Adobo
+5271,2022-04-04,141.22,2,22QBT2LP,Pancit Canton
+6072,2022-04-16,194.69,10,IBVJMSCE,Adobo
+9146,2022-11-27,22.32,2,O51L1AJZ,Bicol Express
+9255,2022-11-23,62.37,5,WU0NUE79,Balut
+2681,2022-01-23,131.62,8,Y91KM405,Balut
+2528,2022-01-31,149.51,9,CJHNE74P,Lechon
+4482,2022-03-13,37.18,1,1OM9XFN9,Bicol Express
+4598,2022-02-16,109.4,-1,NFKWJ3GF,Bicol Express
+8737,2022-10-25,13.44,1,M5DJ8Y3G,Laing
+9862,2022-02-08,154.86,7,CAZFJELK,Sinigang
+9230,2022-01-17,175.74,6,2KMX9VB1,Adobo
+6835,2022-02-27,56.06,7,4YUNHW65,Balut
+7975,2022-09-22,186.79,10,Z9CQDO7P,Pancit Canton
+6425,2022-04-24,121.35,3,MAGH1XOK,Balut
+1198,2022-10-18,159.23,2,N71O7JY2,Laing
+1810,2022-03-05,147.5,10,JN1ZP1N5,Kare-Kare
+8193,2022-08-20,146.12,-1,3D1BO5CM,Adobo
+8522,2022-02-18,128.05,3,YB2OU4L8,Pancit Canton
+6064,2022-04-19,56.16,7,318EIF43,Halo-Halo
+5856,2022-02-19,94.1,2,3CLCY9Q7,Halo-Halo
+3558,2022-07-31,142.31,5,2N6NVT6T,Taho
+8352,2022-07-01,45.36,-1,037IEYBJ,Bicol Express
+7151,2022-11-10,122.27,4,RKT0MA3J,Lechon
+3484,2022-07-17,19.92,9,WB10DNKD,Lechon
+7210,2022-09-13,165.9,5,WYN3N7PY,Halo-Halo
+6503,2022-07-31,117.03,5,0XJ3H3Q0,Bicol Express
+6000,2022-02-11,119.02,7,RVADUAD6,Sinigang
+8671,2022-08-05,83.72,2,DJIND6E0,Lechon
+6198,2022-11-15,37.34,5,44EFV6WP,Halo-Halo
+5458,2022-05-10,18.02,4,16EDH1ER,Pancit Canton
+6403,2022-12-06,184.59,0,UKSIA4SZ,Bicol Express
+3697,2022-12-03,113.93,9,EIBWU1TT,Balut
+5826,2022-11-28,52.05,4,UUNWXF6U,Balut
+5135,2022-04-13,35.08,6,MLG9QY78,Balut
+2212,2022-09-16,12.61,5,3EIVLC4P,Balut
+8448,2022-05-04,11.72,2,TRDO73JS,Pancit Canton
+1128,2022-06-06,107.25,9,JIJUP7ST,Sinigang
+1217,2022-06-06,12.74,0,IEB6HLBX,Taho
+5216,2022-06-27,179.78,2,S8EJM1NQ,Laing
+8007,2022-05-31,24.89,-1,71485W29,Halo-Halo
+8832,2022-01-04,16.85,6,556BQ3XX,Lechon
+9983,2022-04-28,53.82,4,TOQDHQO4,Taho
+2234,2022-11-17,114.2,8,EZKTB7RP,Laing
+9655,2022-03-09,148.39,10,DSCJDD1Z,Sinigang
+4058,2022-07-04,182.33,5,INZPF3WN,Taho
+3159,2022-07-06,147.7,8,DYS4P3K9,Balut
+1485,2022-02-11,76.09,7,AM7KIG2N,Laing
+9207,2022-12-02,28.06,9,YV4HF2HR,Taho
+4846,2022-10-30,24.08,7,C6ETRYLW,Laing
+6340,2022-09-26,103.12,9,4MDAZ4Q3,Lechon
+4460,2022-05-24,195.32,6,LL03GLFE,Taho
+6100,2022-02-20,180.78,0,6WF2FB5D,Sinigang
+8790,2022-07-13,131.32,5,GJBEU53Y,Halo-Halo
+7717,2022-01-13,17.37,8,F9CURPH7,Taho
+2043,2022-08-12,30.83,2,C1UYYK0F,Bicol Express
+3289,2022-01-18,185.55,5,2URH5O2J,Pancit Canton
+6728,2022-07-09,18.31,5,JOH4RYQC,Laing
+1693,2022-02-24,49.91,10,DYUKMWTT,Adobo
+5326,2022-04-27,137.57,1,RU4KDOFX,Balut
+2251,2022-05-24,17.32,5,FJQX37G2,Lechon
+5043,2022-12-15,132.26,10,71BSQHA9,Sinigang
+4105,2022-08-25,56.57,7,IRE8YJGC,Bicol Express
+7785,2022-12-27,23.51,10,FQ8SLX3G,Balut
+8652,2022-01-13,22.57,9,GS0I0ED8,Laing
+6937,2022-02-28,96.83,1,38OJ8OBS,Adobo
+4519,2022-05-27,17.03,1,KY2E2CMG,Pancit Canton
+8528,2022-04-13,111.86,4,BVEIOVQ9,Laing
+9849,2022-05-17,195.97,2,ZVK1WA3V,Bicol Express
+5133,2022-05-16,172.04,9,K58MYO3J,Bicol Express
+1962,2022-05-31,169.32,9,QS0704UO,Bicol Express
+5760,2022-10-01,149.88,2,NSY6A7OQ,Pancit Canton
+9239,2022-08-18,11.88,3,29PZDDIY,Lechon
+7605,2022-02-01,100.67,5,BTZVF8LV,Taho
+5748,2022-12-13,15.19,0,TOT55QBL,Bicol Express
+1213,2022-12-30,129.0,2,ZGP97YMC,Halo-Halo
+5820,2022-10-24,183.83,3,LKW8P7QP,Kare-Kare
+5058,2022-11-24,132.71,9,7LZ8A7J9,Lechon
+7521,2022-02-06,63.29,1,GJXOK02F,Pancit Canton
+7804,2022-09-21,191.3,4,I6PW97EG,Taho
+6573,2022-03-19,132.83,0,XBKXBEGM,Kare-Kare
+9661,2022-11-30,163.92,3,Z9HH1HTY,Taho
+3741,2022-04-11,162.53,6,W6FQ3USJ,Balut
+5191,2022-11-28,62.72,1,SLR9OR0V,Balut
+2431,2022-11-21,10.63,9,7LAFBKMG,Adobo
+9981,2022-05-03,74.73,7,65B5RDL9,Kare-Kare
+9714,2022-09-06,70.65,2,9Z2D0GVM,Lechon
+3672,2022-08-29,147.81,-1,DAG9FN1Y,Bicol Express
+6274,2022-07-11,68.64,8,0K8DCWBZ,Laing
+2526,2022-08-13,148.26,3,E532M5PG,Taho
+2443,2022-04-11,125.88,5,GMUXHZO1,Taho
+7327,2022-03-26,133.44,2,FVRSYG6R,Bicol Express
+8722,2022-03-19,131.28,-1,JD4SCOAJ,Adobo
+6144,2022-09-17,133.92,1,ECDW4D3R,Laing
+8980,2022-12-05,36.31,9,5LSUA6R5,Kare-Kare
+5490,2022-09-04,127.17,2,3FSP2KVK,Kare-Kare
+3822,2022-08-30,14.24,3,PVKZE0VN,Pancit Canton
+1233,2022-11-20,62.46,5,RI1NCPYB,Pancit Canton
+7751,2022-02-27,39.39,7,F11REE9O,Sinigang
+9259,2022-01-05,16.9,5,AWSIJX5T,Pancit Canton
+6204,2022-09-19,15.18,9,ZWWT2BLG,Kare-Kare
+6311,2022-11-03,98.09,-1,VAEGNFTH,Halo-Halo
+6518,2022-01-09,156.95,0,1FUS1G3Y,Kare-Kare
+1127,2022-11-27,155.91,1,RUI6DMZ9,Adobo
+2444,2022-08-14,89.61,5,JU52ENOV,Balut
+8387,2022-10-21,122.97,6,QPTB3WVK,Pancit Canton
+5548,2022-05-15,151.67,-1,DN2FERXE,Balut
+6991,2022-07-13,112.45,4,X9YKIILQ,Adobo
+7406,2022-04-16,55.58,2,QJUMZNSA,Pancit Canton
+7529,2022-11-06,181.73,8,E9LPWG0M,Adobo
+1669,2022-12-19,184.72,9,W19OWF0B,Laing
+9736,2022-12-10,118.98,10,5L7VEZW5,Halo-Halo
+3119,2022-06-25,112.31,10,ECHC2CE6,Adobo
+2707,2022-03-23,154.2,0,IMA6VT61,Adobo
+5954,2022-09-06,34.41,6,642L894J,Bicol Express
+3616,2022-07-26,38.39,6,Z2M6HJBF,Taho
+9274,2022-02-10,56.3,-1,J9XMB6WK,Bicol Express
+2386,2022-07-19,30.05,-1,JW54NNC6,Bicol Express
+1212,2022-05-16,15.46,10,79G7V7EH,Balut
+1877,2022-11-03,169.87,3,O5CKC9GO,Kare-Kare
+6946,2022-03-19,132.03,3,TG9F6IRW,Kare-Kare
+6007,2022-05-08,115.26,5,3NA2FMTJ,Lechon
+9623,2022-12-19,121.12,8,G99TSVMI,Adobo
+8135,2022-09-22,136.64,7,TSJPVEUP,Adobo
+3005,2022-01-15,145.4,2,8F1VCWOI,Balut
+4079,2022-12-28,161.86,9,3HFLENA4,Pancit Canton
+5729,2022-01-16,164.16,6,17EAXOHK,Pancit Canton
+4711,2022-04-23,31.12,5,BSQAB8B9,Sinigang
+5000,2022-04-17,136.96,3,EPBMKKV4,Lechon
+7693,2022-01-15,90.72,9,2OZQSP58,Halo-Halo
+2318,2022-12-28,122.61,2,9L5WQ4XJ,Adobo
+4727,2022-04-21,180.36,4,8TK7FRMJ,Pancit Canton
+1351,2022-06-23,178.66,4,E1H97ZDR,Halo-Halo
+2410,2022-08-26,17.8,0,NOE61VB6,Bicol Express
+9187,2022-02-04,104.51,0,R92TIVS1,Adobo
+8992,2022-10-19,102.83,-1,YSEIXE08,Lechon
+7998,2022-10-27,136.06,8,O980W9YR,Bicol Express
+2435,2022-04-03,35.15,4,YV8LA0OD,Adobo
+4491,2022-12-18,92.07,7,M68IG1BU,Taho
+6772,2022-04-20,63.77,-1,VBWKOSZV,Pancit Canton
+5221,2022-03-31,29.83,-1,I5Y34T14,Balut
+1670,2022-03-05,27.08,4,RQC241HV,Bicol Express
+1290,2022-11-06,188.29,-1,HOE9XQKJ,Bicol Express
+8854,2022-01-08,64.78,1,LPGJNFSN,Laing
+7109,2022-08-14,174.23,7,13K3N4CY,Bicol Express
+4740,2022-03-06,143.95,0,IEX200E8,Taho
+7138,2022-06-13,116.23,7,M9TO3TXV,Sinigang
+1013,2022-04-23,45.92,6,KBQ0A5XM,Balut
+7570,2022-11-18,20.84,7,B32DEJ7F,Pancit Canton
+2385,2022-05-12,179.36,6,DQAFIC5F,Halo-Halo
+7557,2022-05-12,166.31,9,OFPQ9JBJ,Pancit Canton
+3854,2022-11-19,14.16,6,V1O0C96Z,Taho
+3913,2022-08-03,69.42,5,OIVRZ7A0,Halo-Halo
+6187,2022-09-19,36.49,5,ZSX8ME3J,Kare-Kare
+5198,2022-01-21,77.31,0,EOW7OU8J,Kare-Kare
+6969,2022-06-30,152.9,8,3KHPHRBM,Lechon
+4802,2022-06-03,93.26,3,61ZCG1W3,Bicol Express
+4433,2022-05-29,114.71,1,DGS7XDZP,Lechon
+4591,2022-05-16,175.42,-1,8AHTX96X,Halo-Halo
+1348,2022-03-14,174.95,10,7C6LLI84,Lechon
+1569,2022-04-15,158.25,8,DNSQFMPA,Sinigang
+9472,2022-04-19,172.67,8,ZP8YSU20,Lechon
+8132,2022-07-11,19.14,1,75ALX1GD,Pancit Canton
+8423,2022-07-26,29.45,0,MIONNLCZ,Kare-Kare
+2446,2022-04-09,141.88,8,TMVKGYP8,Taho
+9903,2022-03-21,74.96,6,GQ0YIK7H,Pancit Canton
+2024,2022-08-05,184.37,1,WFL093UO,Taho
+9268,2022-08-14,158.04,10,EKYS2JYY,Halo-Halo
+9698,2022-09-12,48.75,3,EBU2VQFK,Adobo
+7659,2022-02-22,28.56,7,NFXCH5YS,Balut
+6514,2022-11-05,63.67,-1,NM3GPMP6,Bicol Express
+1583,2022-02-15,136.69,2,0648WBI6,Pancit Canton
+8598,2022-03-26,50.22,1,RHIEUQY9,Balut
+2998,2022-03-16,29.15,3,DYYHAPP0,Lechon
+4163,2022-01-25,190.09,3,AUZM5J8G,Bicol Express
+8040,2022-12-12,147.2,8,45BSG462,Sinigang
+7382,2022-05-31,132.4,3,BRP3GEJ4,Bicol Express
+4641,2022-12-14,160.7,5,UI7Y7P4V,Lechon
+2832,2022-06-24,165.06,2,M2TZ6OW3,Kare-Kare
+8741,2022-09-04,163.25,8,JE85THCS,Adobo
+6490,2022-02-26,47.32,5,4JL8MZMQ,Laing
+1069,2022-07-23,195.39,5,5XFXS70U,Adobo
+8670,2022-09-23,36.9,0,ASE933IU,Balut
+3247,2022-05-13,59.32,10,PEEDX738,Pancit Canton
+1040,2022-01-02,68.06,7,6JXFNSSU,Balut
+5665,2022-01-14,154.38,5,08N27075,Taho
+4139,2022-04-17,59.12,4,X18QV93E,Adobo
+3475,2022-03-14,123.99,6,OIDRXR2U,Bicol Express
+3816,2022-12-26,157.29,0,AGB3SW9N,Bicol Express
+4421,2022-07-17,162.71,10,6VP5R401,Sinigang
+5414,2022-05-23,156.65,2,N3BEHN6H,Taho
+8855,2022-06-29,177.76,5,U7OWQ2NW,Laing
+1001,2022-10-21,34.3,3,EC35UF2A,Kare-Kare
+5059,2022-11-29,178.63,8,S1CWUJ9I,Pancit Canton
+3071,2022-03-26,79.21,-1,MHT7XSW2,Pancit Canton
+3507,2022-04-16,151.13,6,OZBHFTBY,Pancit Canton
+2827,2022-10-22,143.68,2,BT4TBJ76,Lechon
+8997,2022-01-18,93.44,6,ELSAD6F5,Lechon
+9164,2022-11-03,152.3,4,RS6K739U,Lechon
+3752,2022-11-23,172.43,7,PQM8BLKW,Balut
+3896,2022-08-30,83.28,6,4VOG61II,Pancit Canton
+3122,2022-08-27,10.86,1,3KPFJLYN,Bicol Express
+4297,2022-12-05,12.76,7,AQTG6H3G,Laing
+7690,2022-03-21,65.81,2,JJE2UCXZ,Pancit Canton
+7901,2022-09-22,92.09,4,T3L7JEPB,Laing
+1364,2022-07-03,178.35,8,CTOC3CN4,Kare-Kare
+9784,2022-03-15,70.27,6,6MX8NPKC,Kare-Kare
+1245,2022-03-07,152.77,6,NK6YYPAT,Lechon
+7211,2022-12-05,166.88,5,YWTIU7YJ,Halo-Halo
+7562,2022-03-29,19.14,-1,LGCJ7KWY,Taho
+1917,2022-04-30,22.56,-1,H3GXX8ZK,Pancit Canton
+6815,2022-09-01,88.68,3,ZO2FE3ID,Halo-Halo
+8996,2022-07-25,33.18,9,0NEK0O93,Taho
+5948,2022-08-06,52.01,1,BQI6Z9QW,Sinigang
+8946,2022-03-22,75.5,1,VN4G4Y6A,Adobo
+2991,2022-12-19,21.56,2,XU3FNCJU,Sinigang
+8104,2022-08-01,132.27,0,7KZ7MH0F,Lechon
+7282,2022-07-29,182.18,2,5IAVED53,Balut
+5235,2022-08-18,42.85,7,5T48FTF9,Pancit Canton
+2257,2022-03-06,121.09,-1,B7MMST5K,Taho
+1875,2022-09-05,16.48,10,Q4Q8KO2O,Lechon
+6521,2022-07-07,105.72,4,0844AWJY,Pancit Canton
+8008,2022-07-19,190.6,6,JEEA6AXH,Adobo
+4813,2022-12-16,43.53,8,HAYVATSS,Laing
+8770,2022-11-03,47.99,-1,K8ZILNII,Laing
+8633,2022-11-28,167.11,0,7FCZQVRN,Sinigang
+4834,2022-09-13,87.49,6,5KGBJNIF,Laing
+6609,2022-10-25,18.65,3,2LIA9NS4,Pancit Canton
+2345,2022-08-16,32.25,0,2NNOCWHR,Balut
+1299,2022-09-06,127.71,2,6U670GO8,Adobo
+5243,2022-07-26,183.48,-1,VM42M8ZU,Kare-Kare
+4063,2022-01-29,87.27,6,D77IW32D,Adobo
+3789,2022-04-05,53.79,7,0QT440ZQ,Balut
+6591,2022-06-13,81.85,5,SC312LW3,Bicol Express
+2687,2022-11-30,99.88,2,VBYNZ3MS,Lechon
+6625,2022-01-08,154.56,-1,Y0E8ZYRJ,Bicol Express
+5953,2022-12-19,185.29,1,KB3IORIW,Balut
+9380,2022-06-02,184.57,-1,LGIFJ964,Pancit Canton
+9945,2022-04-06,48.89,7,HS6T57V7,Lechon
+3431,2022-02-04,163.47,7,FIOOVTZB,Pancit Canton
+8991,2022-12-22,180.97,3,FMFBE8L8,Adobo
+6598,2022-08-18,79.15,-1,7GF31VOO,Laing
+6350,2022-04-06,65.85,9,ACRJGOW0,Adobo
+8894,2022-10-01,190.68,4,345ULI98,Lechon
+2244,2022-05-31,137.13,8,YREWB097,Halo-Halo
+3841,2022-01-12,151.77,1,Z3XRNZ54,Lechon
+1816,2022-06-14,66.99,6,1VW34MJF,Balut
+5108,2022-05-03,103.62,8,V1WBAA8R,Kare-Kare
+6237,2022-05-19,143.51,5,4OUS4MT6,Sinigang
+4544,2022-03-22,163.45,2,P5DM7SJM,Bicol Express
+8874,2022-11-04,99.55,0,UY7PYPII,Adobo
+8632,2022-01-28,144.04,0,HDQVEG4P,Adobo
+7441,2022-10-07,114.4,0,KRXQA86Y,Halo-Halo
+1234,2022-06-26,190.02,2,TTDTT1VV,Lechon
+2660,2022-04-09,80.46,0,OLJ9B6Z9,Laing
+7718,2022-03-06,45.14,7,NI73ILA6,Pancit Canton
+7296,2022-02-17,77.01,8,H75GDEQ7,Bicol Express
+1357,2022-03-04,169.8,0,B3N4XQCP,Pancit Canton
+6986,2022-01-05,157.62,5,S28XK6SX,Taho
+4266,2022-07-16,180.38,8,FSB0BH0J,Sinigang
+2270,2022-05-28,156.02,3,EYO1TSIS,Bicol Express
+9000,2022-11-02,151.47,9,Q6XR0EPQ,Pancit Canton
+4662,2022-08-15,105.55,1,HF5TI353,Adobo
+9675,2022-10-23,42.18,5,JNGULZ5Z,Sinigang
+5273,2022-05-10,114.43,8,B5HZO3HT,Adobo
+8245,2022-01-27,63.75,-1,IFGSFGRE,Balut
+2551,2022-08-13,163.23,3,5694D0DV,Pancit Canton
+7927,2022-11-24,85.68,5,F4GK96U9,Taho
+4992,2022-01-08,22.89,1,ZKPGLN1W,Laing
+4741,2022-04-14,61.62,3,GVYEQ43S,Balut
+1955,2022-07-29,168.0,4,T9GFZKGW,Pancit Canton
+1595,2022-09-05,113.23,5,NDL9AX39,Taho
+9954,2022-09-12,89.92,2,WHEPVSBX,Balut
+1139,2022-03-06,29.37,9,BMRJUG23,Halo-Halo
+1719,2022-05-25,42.95,-1,XBBE3997,Taho
+1261,2022-04-26,134.02,4,N63WYYYT,Kare-Kare
+5236,2022-06-24,123.9,-1,ZUQMVN7N,Balut
+9686,2022-03-20,130.27,9,HHFOXK1C,Adobo
+8605,2022-12-18,156.52,5,XQB4LV0M,Lechon
+9670,2022-04-07,30.1,1,1R6Y83EM,Lechon
+8898,2022-10-07,160.6,4,P3ZNOMUH,Pancit Canton
+3465,2022-08-16,41.37,1,XCQOBVRI,Halo-Halo
+7765,2022-05-03,134.73,9,0CH4HV69,Pancit Canton
+3266,2022-03-23,77.12,6,BUBA0H1M,Lechon
+1865,2022-08-05,121.74,7,77G9WSTQ,Lechon
+7641,2022-07-15,130.03,8,WG43CW0P,Adobo
+5181,2022-03-10,94.6,3,IBX5WS49,Adobo
+6532,2022-07-27,144.71,9,S8SW24Y9,Taho
+8791,2022-07-16,83.39,8,SUDHD4IU,Laing
+3751,2022-08-04,176.82,8,HPEGX06L,Halo-Halo
+8702,2022-04-15,134.4,3,IDKW37TN,Pancit Canton
+9880,2022-11-20,38.11,6,RPM3C53V,Lechon
+4543,2022-01-12,53.17,6,6OJF01OI,Halo-Halo
+3961,2022-04-08,75.48,7,6OF593KD,Balut
+1024,2022-05-21,119.09,0,3Y5IUKQZ,Halo-Halo
+7601,2022-02-11,39.86,10,NJD6D50B,Balut
+7180,2022-03-03,176.06,2,OPABI3ZF,Kare-Kare
+2778,2022-08-30,101.6,1,PSKH6T9R,Balut
+4193,2022-09-11,47.07,4,SMOCJM6L,Laing
+3230,2022-04-27,44.63,6,7W4ESUPU,Halo-Halo
+1325,2022-12-05,54.94,5,RS75FNKE,Lechon
+9878,2022-11-19,93.43,7,CBO17A69,Laing
+3785,2022-05-24,119.76,7,JWVCH5PH,Adobo
+2717,2022-12-27,119.16,1,10KHQB5A,Laing
+2147,2022-11-09,187.29,10,QSCTEFRU,Laing
+8024,2022-07-20,142.62,8,V51BIU2N,Bicol Express
+2445,2022-09-17,156.43,2,AC29Y763,Sinigang
+8396,2022-09-03,88.46,4,LW0ZM8V9,Kare-Kare
+6211,2022-01-21,193.37,5,BTIW6HWA,Lechon
+6843,2022-01-26,81.0,-1,5644R3Q7,Lechon
+2397,2022-05-04,112.59,5,3K9W69A5,Kare-Kare
+8303,2022-08-15,30.22,0,DJIPW8YA,Laing
+8422,2022-07-24,24.24,10,J5PEWLFP,Laing
+5040,2022-09-28,72.49,9,WV05S484,Lechon
+5262,2022-08-31,191.21,1,JZ5K8WSQ,Pancit Canton
+1582,2022-01-14,113.44,6,O5JQEOWX,Laing
+2639,2022-08-28,187.31,2,JGZ6Z489,Pancit Canton
+7749,2022-12-02,65.36,6,9HVPMU0Z,Sinigang
+2597,2022-01-05,132.63,1,TYZ13ZAW,Pancit Canton
+7942,2022-03-27,59.02,6,BC3KU9TB,Laing
+8694,2022-03-19,97.14,0,8GAOYVIJ,Kare-Kare
+8269,2022-11-13,156.39,0,KQHVVZMC,Halo-Halo
+8757,2022-03-25,175.36,-1,YRLW9JXJ,Halo-Halo
+6857,2022-03-11,173.17,5,J7TG3IL5,Balut
+9618,2022-07-06,122.99,0,TC1ZSWQR,Pancit Canton
+7314,2022-10-24,38.42,10,ZFJ0C90G,Halo-Halo
+6982,2022-01-09,10.47,1,7RJPFRAS,Laing
+5197,2022-04-22,189.36,4,EHCX1FHC,Laing
+8427,2022-02-05,182.62,8,QZV1XRS1,Balut
+2194,2022-04-03,103.68,-1,TW37X23V,Lechon
+7125,2022-03-23,93.65,0,7XZP2SFX,Sinigang
+4774,2022-03-25,25.83,-1,EQ63R94A,Kare-Kare
+7843,2022-11-26,47.02,0,R5XSZX1A,Bicol Express
+6847,2022-09-26,103.68,0,1AK12XQH,Balut
+1360,2022-10-18,78.96,-1,D7AXAOCW,Kare-Kare
+9813,2022-11-01,135.59,10,7NE21XCU,Lechon
+4089,2022-11-17,98.57,2,95E3A937,Taho
+3381,2022-08-27,169.98,7,MDJX7SP0,Pancit Canton
+5904,2022-09-04,74.48,0,WH10FHX8,Bicol Express
+8483,2022-03-13,75.45,-1,HFIRUF1K,Taho
+3538,2022-05-30,48.45,7,M9QAEDS0,Laing
+5321,2022-10-04,19.51,1,YQ8R4LXG,Laing
+1219,2022-02-27,198.83,7,DO13QC9O,Bicol Express
+1111,2022-01-26,151.02,8,JA1CG2K1,Bicol Express
+9050,2022-05-11,172.79,9,U12R37X0,Pancit Canton
+4106,2022-11-16,189.97,7,YKBTF9DA,Pancit Canton
+2039,2022-02-09,129.07,10,V1KWPXWB,Kare-Kare
+2464,2022-02-20,13.23,8,C0AR8K8R,Kare-Kare
+5400,2022-03-05,16.38,8,T1XHO2XX,Sinigang
+5852,2022-05-09,49.35,2,Z0NOAULR,Kare-Kare
+4687,2022-09-29,143.61,-1,MMBHOD94,Pancit Canton
+7624,2022-12-04,137.63,8,BBVLWQZ1,Balut
+6078,2022-12-01,142.13,9,S7CZFDGE,Adobo
+7541,2022-01-08,185.29,6,07UB0DUO,Kare-Kare
+3637,2022-08-17,63.72,0,X00Z3IV0,Lechon
+6526,2022-05-23,165.48,-1,CGZJZ6FH,Taho
+3054,2022-12-21,18.28,10,N8WXMNBG,Sinigang
+5947,2022-01-17,13.45,4,091RLHYU,Taho
+7454,2022-07-05,157.43,6,YF879TPD,Adobo
+5822,2022-01-27,154.62,5,N70IBBKL,Lechon
+3938,2022-09-12,35.0,3,AAAJ7331,Balut
+6356,2022-12-06,93.18,2,26FP990U,Sinigang
+6845,2022-09-22,36.68,2,DDBF7RRK,Halo-Halo
+6371,2022-04-22,101.24,-1,VPTUCR20,Kare-Kare
+2294,2022-09-29,28.85,4,8PO8T0G1,Sinigang
+2333,2022-12-24,28.43,8,C7U8WVIA,Lechon
+5918,2022-10-16,127.78,7,SEE5V7JH,Taho
+5540,2022-11-20,139.03,7,BOTQQSPQ,Adobo
+5570,2022-05-09,143.41,3,G65DA9HI,Lechon
+2129,2022-07-18,81.09,4,DB650TDB,Laing
+2676,2022-04-21,93.01,-1,TRG0RUU2,Sinigang
+9266,2022-04-24,86.49,9,H5230RC5,Adobo
+8542,2022-10-09,73.85,10,YMRO4TUK,Halo-Halo
+1756,2022-12-04,81.91,9,X06B7KDW,Sinigang
+4054,2022-07-12,109.67,-1,CAT0H20W,Bicol Express
+7084,2022-02-11,150.21,10,0ST10I93,Sinigang
+1622,2022-04-25,171.3,2,DHQPJJHP,Adobo
+6995,2022-11-19,29.89,8,0NC0N2RZ,Balut
+8879,2022-01-09,111.14,6,NNRSNG2S,Bicol Express
+6556,2022-11-25,129.22,4,SMZL6WF0,Kare-Kare
+9818,2022-09-09,113.44,10,MEY3FKL4,Laing
+3844,2022-09-18,80.83,5,8FXT26WG,Laing
+4611,2022-02-27,197.82,-1,T85Z94EZ,Sinigang
+5390,2022-05-18,137.63,4,LRCU9V3N,Pancit Canton
+1122,2022-12-15,124.92,6,N4016LKU,Kare-Kare
+4295,2022-08-27,39.1,0,1LVSXDR7,Lechon
+4313,2022-01-18,75.54,10,SOM67TK9,Balut
+2402,2022-10-27,137.47,10,POV6ZLJT,Halo-Halo
+2482,2022-07-28,199.57,6,L8NWUAGB,Adobo
+2451,2022-07-17,34.12,2,ZE8XWR5B,Balut
+8816,2022-12-23,43.61,6,MNU3KJFR,Adobo
+3539,2022-06-20,191.45,8,Y2KBQ0LF,Lechon
+1614,2022-06-10,189.99,7,QBKZJVVR,Sinigang
+7352,2022-11-21,136.68,10,9SMPHIJW,Adobo
+3379,2022-10-13,108.34,9,0VVZ2WTC,Bicol Express
+3318,2022-02-14,131.11,10,OTH8NJUT,Balut
+1636,2022-03-22,86.39,-1,5QP8467K,Kare-Kare
+8443,2022-01-15,45.76,4,D3K71IX5,Balut
+9065,2022-07-29,171.56,4,WLSTRZCD,Pancit Canton
+1689,2022-04-06,155.2,9,7LSX94TO,Sinigang
+3498,2022-11-03,175.4,8,F9DKUB64,Balut
+1660,2022-11-24,122.67,8,EQVRPT2C,Lechon
+5007,2022-05-16,18.23,4,JQ8P3LPY,Lechon
+4597,2022-09-18,29.99,1,F5W1ZDQK,Balut
+6228,2022-04-28,29.54,5,8SHHN8UH,Laing
+8181,2022-04-03,183.12,3,P2BE8MI0,Lechon
+4921,2022-01-24,24.51,2,C751C37E,Adobo
+5470,2022-06-19,39.86,3,GF36ACXW,Laing
+1605,2022-03-20,95.24,-1,Z4QV7ROK,Adobo
+9304,2022-06-09,63.46,1,L7E2VIG8,Taho
+3016,2022-02-23,39.13,-1,YZQQ0EEI,Kare-Kare
+3021,2022-10-01,165.81,7,7VRDVTSY,Balut
+4201,2022-10-03,39.68,4,D26BM92I,Adobo
+1274,2022-11-04,60.21,8,0ORJP41D,Lechon
+5605,2022-01-01,50.07,4,PT2IHJT0,Balut
+1060,2022-11-18,124.58,2,I1FAYCMG,Sinigang
+8405,2022-10-21,155.77,8,IJZLDW20,Pancit Canton
+3277,2022-08-02,107.76,5,LYNCB59M,Adobo
+5871,2022-08-20,176.36,0,KT4S64K4,Adobo
+1979,2022-09-15,91.81,9,F24NH53A,Adobo
+5189,2022-09-04,51.7,6,VY6MBGA8,Pancit Canton
+8381,2022-09-20,101.57,7,PZJM8Y2K,Kare-Kare
+9192,2022-07-27,141.66,6,D9AUVX0H,Pancit Canton
+8539,2022-01-19,93.59,7,H42BBN1X,Pancit Canton
+8974,2022-10-02,124.6,4,JRV6Y3QG,Kare-Kare
+6175,2022-02-12,198.33,5,9L11NYYY,Sinigang
+3834,2022-06-06,24.58,3,8CA2WAJ8,Lechon
+1106,2022-12-24,77.81,8,E4ARS779,Adobo
+7600,2022-01-26,41.5,0,2GMK4L0W,Lechon
+2196,2022-04-22,176.53,10,5F0B6KTR,Pancit Canton
+8771,2022-10-08,42.73,2,60MAVPB2,Sinigang
+5446,2022-06-24,27.0,2,1467RHOB,Adobo
+5272,2022-04-29,21.6,6,OP2R9ERO,Balut
+1723,2022-12-10,162.66,2,MERU0LNJ,Adobo
+2301,2022-12-01,11.93,5,XJORV02Q,Pancit Canton
+4442,2022-10-14,44.27,5,WEORX13N,Lechon
+6247,2022-12-21,79.39,6,10EWVJHL,Sinigang
+2218,2022-04-28,122.01,1,WBWXYD98,Lechon
+1495,2022-08-18,144.74,4,GXWB59A2,Taho
+6447,2022-05-15,102.57,9,XMGIWSWF,Laing
+8712,2022-02-27,35.77,6,2Z3A35JV,Lechon
+2842,2022-07-18,132.98,6,58KUMTB2,Laing
+9602,2022-09-01,140.15,8,358SQCQM,Laing
+9936,2022-06-23,191.79,6,EGJOM511,Laing
+6411,2022-10-18,145.32,10,5S20Z6G5,Laing
+4327,2022-06-11,149.78,-1,9QLBKA1P,Pancit Canton
+5875,2022-08-22,101.48,4,QC03FS5M,Lechon
+2044,2022-03-10,101.48,1,05HE30C4,Pancit Canton
+9928,2022-05-06,84.47,8,TVNZMQXW,Sinigang
+2456,2022-04-25,82.42,0,O93I1192,Taho
+7932,2022-06-05,168.69,2,25YK0VAZ,Kare-Kare
+5314,2022-07-23,104.15,3,R4D9SCJ1,Taho
+4636,2022-11-02,59.36,7,E48FIVTM,Taho
+9046,2022-02-01,56.58,-1,6AZZGPW1,Kare-Kare
+3837,2022-02-01,133.88,5,DD4BK91T,Laing
+8746,2022-02-13,144.53,0,OWID4C2J,Laing
+6260,2022-09-09,131.54,5,0G6ZC6UN,Kare-Kare
+4863,2022-12-14,144.85,7,VQ4ULZ0E,Pancit Canton
+4764,2022-11-08,170.75,2,DGM0D2LE,Lechon
+8968,2022-09-24,167.91,1,C99YUOJB,Lechon
+8159,2022-04-02,182.39,6,U985BTSI,Adobo
+9620,2022-01-04,76.9,1,89NF24PH,Lechon
+9353,2022-07-18,122.98,5,33GW4ZU2,Bicol Express
+4070,2022-06-04,63.28,2,G1FAMXXE,Kare-Kare
+6025,2022-01-27,162.36,-1,VLEFFZAZ,Kare-Kare
+4534,2022-10-10,37.75,5,JXSKJDMD,Laing
+1866,2022-05-25,130.01,4,29GP4LZH,Pancit Canton
+2146,2022-06-22,26.52,2,AL1PFX7Q,Adobo
+1118,2022-02-13,63.72,10,P2CE44R6,Laing
+8312,2022-07-31,157.01,6,H10LEWOP,Pancit Canton
+7590,2022-09-07,153.0,2,R7I9JM06,Kare-Kare
+4691,2022-12-10,115.74,9,E04LM018,Kare-Kare
+8565,2022-02-08,24.73,8,D33B2T07,Halo-Halo
+8058,2022-02-15,110.34,7,7HQHSP6S,Sinigang
+6188,2022-08-24,14.09,8,EJMBZU56,Sinigang
+4756,2022-06-09,146.44,-1,VTN4FNNE,Laing
+3162,2022-05-20,96.41,7,206RJZOQ,Laing
+4883,2022-02-12,180.95,5,O0A9990W,Kare-Kare
+4882,2022-05-10,114.37,4,8PYESP9Q,Lechon
+7924,2022-04-04,24.35,8,1UU15HSW,Lechon
+2637,2022-03-19,70.26,7,JR04G9CJ,Sinigang
+4651,2022-08-05,64.21,1,PQJ95VAF,Adobo
+7554,2022-01-16,160.73,2,05WEBRHR,Lechon
+8718,2022-10-13,54.46,-1,C3FKK245,Laing
+8133,2022-04-23,53.06,5,T0E7RSH1,Kare-Kare
+8136,2022-02-24,150.52,7,ZVIAPJLZ,Sinigang
+8279,2022-03-21,46.3,2,H3GKSIYL,Taho
+5962,2022-07-01,186.77,-1,P1CW7LC7,Halo-Halo
+5242,2022-08-11,161.91,5,9VA9EQZK,Laing
+8847,2022-02-06,121.27,3,CVZ3ULK0,Lechon
+5541,2022-09-12,74.47,3,79PNWG6L,Lechon
+7696,2022-01-15,129.1,7,SO6DPXU1,Laing
+6500,2022-12-25,38.63,5,QJBNIIH8,Adobo
+2496,2022-03-09,53.62,6,UNBFWDGZ,Taho
+5454,2022-11-06,118.7,-1,8O5ANWGI,Halo-Halo
+8166,2022-01-31,68.79,2,2ZES969N,Adobo
+9986,2022-01-02,124.51,4,MB90864S,Balut
+1510,2022-03-04,150.44,9,3GW0R8JZ,Lechon
+7515,2022-12-14,94.25,2,HKEVLJCA,Taho
+3803,2022-10-28,67.88,6,F0I0AY81,Bicol Express
+1227,2022-01-02,82.2,7,H05G1GGI,Balut
+6134,2022-12-19,22.17,2,YLE96Q23,Bicol Express
+3612,2022-10-14,197.57,7,8ODJG7CH,Laing
+6668,2022-10-07,46.02,3,2A7M4401,Sinigang
+6510,2022-12-14,90.37,4,TQYLSZIH,Adobo
+1959,2022-09-20,156.42,7,FIOV79V1,Bicol Express
+2505,2022-12-13,100.35,7,W2PVNE8P,Kare-Kare
+4340,2022-03-12,106.27,5,W1MEDO7L,Kare-Kare
+2992,2022-06-06,119.78,2,AVM8H41C,Laing
+1518,2022-07-17,41.32,4,CRQ5Z9WK,Bicol Express
+5511,2022-06-25,24.3,6,87XV2Z2W,Balut
+9351,2022-12-04,44.32,5,XT7IJP44,Laing
+3481,2022-05-06,49.05,0,6YE4GZNT,Halo-Halo
+9025,2022-02-15,81.62,10,AWDKTSEZ,Sinigang
+5418,2022-08-09,183.82,2,IUIIV5F6,Adobo
+9762,2022-01-21,164.26,8,O9A8CEKZ,Lechon
+2273,2022-05-14,107.28,8,886ILZVT,Laing
+6930,2022-06-27,54.06,10,NKW12P93,Sinigang
+3286,2022-09-16,130.1,9,EA33GI4F,Bicol Express
+4171,2022-07-28,160.93,2,2EDH18BG,Halo-Halo
+9864,2022-07-13,167.49,7,3HY94F9F,Halo-Halo
+3504,2022-12-19,130.23,5,IDNOU8QY,Lechon
+4084,2022-04-12,69.08,6,IMFZK9G3,Balut
+2742,2022-02-24,58.1,-1,VVPOIFHN,Balut
+6086,2022-03-28,121.56,4,UC6NE85Z,Bicol Express
+9090,2022-04-27,64.88,-1,Z5POWA19,Sinigang
+2623,2022-01-12,115.13,1,ONOOED80,Balut
+1372,2022-10-23,25.42,5,F97LFD27,Adobo
+3853,2022-06-05,137.92,0,ZSUYDT2Z,Laing
+8078,2022-05-24,137.05,2,GQFIG4UU,Sinigang
+5127,2022-03-14,17.48,6,YTONZQX4,Sinigang
+5062,2022-07-20,120.83,6,4KJXZVCE,Pancit Canton
+4222,2022-05-23,196.27,0,BDRG7OHB,Laing
+3341,2022-08-07,39.63,1,PHWE6QTF,Bicol Express
+4948,2022-10-21,58.11,8,WTF65ACX,Laing
+8585,2022-09-27,44.84,5,6Z300S7T,Laing
+2315,2022-07-12,85.29,5,Q1P2RQE4,Adobo
+9845,2022-09-29,157.72,6,5O4A9N2Y,Taho
+7482,2022-02-22,149.4,0,YXPQYG5C,Pancit Canton
+1760,2022-08-15,33.61,3,YUCQN2RE,Bicol Express
+7827,2022-09-05,184.07,4,8OZG8S3N,Balut
+2241,2022-06-24,109.86,3,VPLA7DV7,Laing
+3682,2022-11-30,81.39,2,0H0T8HRZ,Taho
+7317,2022-10-14,189.76,0,HZ1MH8A5,Bicol Express
+8775,2022-05-29,87.46,5,OOIKI5H7,Pancit Canton
+6468,2022-11-28,159.93,9,H4MVHIFP,Bicol Express
+2677,2022-11-02,124.91,3,WR9X0O93,Pancit Canton
+6003,2022-03-13,76.98,9,VG0CUSIN,Sinigang
+2168,2022-10-24,85.62,-1,56IXCUL8,Taho
+8878,2022-07-04,89.87,10,15O8G7MD,Taho
+3130,2022-07-04,153.44,7,VMH5J41B,Balut
+7640,2022-01-10,101.23,10,FM1QVBNI,Lechon
+9194,2022-08-09,56.02,6,QGREXJK6,Sinigang
+4470,2022-09-11,144.69,2,KJV3XCD3,Laing
+4760,2022-09-20,94.52,6,CK9JFB2N,Bicol Express
+3499,2022-09-01,139.69,10,W8I5HI7Z,Bicol Express
+8081,2022-10-09,36.54,1,UG3ERD6P,Adobo
+1808,2022-05-14,155.9,5,2790EFV4,Sinigang
+9963,2022-05-23,167.26,7,CN1OEDMC,Laing
+5016,2022-03-03,195.17,2,6NDW5Z28,Pancit Canton
+6863,2022-04-21,170.24,3,F9FMJRQ6,Taho
+8787,2022-12-09,146.74,9,XGZOFEK3,Adobo
+4854,2022-11-21,177.52,8,LATUMJKS,Pancit Canton
+9952,2022-08-09,156.76,0,09YYG9Q4,Laing
+8129,2022-03-25,175.98,6,JZRKG5YL,Bicol Express
+8536,2022-02-14,164.47,3,L5YHOC10,Laing
+5076,2022-10-09,112.97,0,B1XAYLHI,Kare-Kare
+2559,2022-12-05,150.43,6,1UOLPBZ6,Pancit Canton
+7507,2022-10-09,108.82,4,17S8WZVN,Lechon
+4649,2022-07-11,113.07,6,UFJTRR1W,Taho
+1951,2022-12-10,11.6,7,VE7U1Z5A,Sinigang
+7536,2022-06-12,125.4,4,P6SWVAGD,Taho
+7202,2022-11-11,120.66,1,6FDE3ZQV,Kare-Kare
+9503,2022-07-09,168.63,9,GUCYN8F7,Taho
+5608,2022-11-17,14.36,-1,RY3OPQFI,Adobo
+9518,2022-10-22,85.5,-1,AKDE6K6N,Sinigang
+5179,2022-06-17,86.51,10,J2TAKFSO,Pancit Canton
+7113,2022-02-17,105.04,9,NDQWXMXG,Kare-Kare
+3930,2022-04-13,68.18,7,I44TJZRW,Balut
+5678,2022-02-02,140.79,2,LPLQ9ZRE,Halo-Halo
+3018,2022-04-26,185.23,4,221RHI4Q,Balut
+3176,2022-11-24,60.63,10,2POJG4CT,Sinigang
+7623,2022-12-06,127.72,10,ML0HINYN,Balut
+5120,2022-10-11,70.98,10,KUXU4DC4,Lechon
+5186,2022-09-18,63.48,0,31Y79DTM,Bicol Express
+2973,2022-10-01,126.7,7,91NXOAXZ,Bicol Express
+6070,2022-03-07,61.21,0,1QH1AZOJ,Kare-Kare
+3414,2022-01-30,196.11,10,6MZOLOFJ,Sinigang
+9324,2022-04-14,85.97,8,WC1WRFJH,Adobo
+8523,2022-02-16,22.14,1,BQ0Q2AS4,Taho
+8335,2022-04-06,138.76,9,HYX4PP34,Adobo
+8726,2022-05-09,15.69,9,5EFDTLIR,Kare-Kare
+7170,2022-07-08,105.81,5,F3DVENGD,Taho
+7719,2022-06-20,42.84,4,S6ZIZMO2,Sinigang
+3174,2022-12-19,113.76,3,8VZ2103B,Pancit Canton
+8394,2022-11-10,70.55,0,PKK6MWGW,Sinigang
+9801,2022-01-24,114.78,5,7ORG4LIO,Kare-Kare
+1459,2022-06-06,41.14,1,AEV07XY0,Sinigang
+1744,2022-12-23,27.74,5,4YDCGAKZ,Adobo
+1672,2022-05-10,83.06,5,Q3CUKK9V,Taho
+3092,2022-08-14,78.27,4,787PCXHG,Taho
+7969,2022-10-27,112.63,9,1W9ELG0V,Bicol Express
+3275,2022-10-06,50.71,10,9D10XYP6,Halo-Halo
+9788,2022-04-07,90.16,8,W2K8YSHU,Halo-Halo
+2636,2022-06-17,51.33,3,FZQEAYLE,Adobo
+4566,2022-03-30,161.12,9,0OWPOGF4,Halo-Halo
+6794,2022-12-26,129.27,9,GETOJ1N0,Adobo
+9081,2022-11-26,85.76,9,E3G9CEE1,Sinigang
+4288,2022-04-27,82.92,2,X9J1Q248,Lechon
+6495,2022-01-26,198.87,6,38RKHEDS,Sinigang
+1739,2022-03-11,183.68,8,FU3FOII8,Halo-Halo
+2329,2022-12-24,67.8,10,VF1H66AD,Laing
+4689,2022-07-18,125.49,4,ST8665JQ,Laing
+1695,2022-05-17,56.28,-1,S8CQ9TL6,Lechon
+8217,2022-12-19,192.44,1,4NRAH543,Balut
+6136,2022-09-05,191.47,-1,QTHY4BYT,Balut
+8388,2022-11-06,159.8,8,K4XJ6RIO,Bicol Express
+4490,2022-12-18,93.08,0,1PTDERHW,Laing
+1304,2022-12-11,131.24,3,TNJH8Q32,Bicol Express
+3587,2022-10-30,198.81,-1,YBUJWQTV,Taho
+7740,2022-09-02,49.2,0,YJSY741G,Kare-Kare
+4111,2022-07-05,190.45,4,KZ3UIOK4,Sinigang
+1108,2022-04-27,81.69,5,2J5HEI8V,Balut
+6919,2022-08-03,15.29,3,30MAEREO,Pancit Canton
+9454,2022-07-08,158.43,4,9P8Y0M4C,Bicol Express
+3271,2022-03-10,132.59,7,QJB8BYTX,Taho
+5981,2022-01-22,172.29,-1,5FT50YPO,Adobo
+7189,2022-08-13,154.78,9,V2E3G54J,Kare-Kare
+4581,2022-11-02,100.14,5,WRSQA1A0,Bicol Express
+6181,2022-07-11,83.31,2,DL9SWPSP,Bicol Express
+4542,2022-05-05,55.18,8,VI1U2N3U,Halo-Halo
+1646,2022-10-16,170.61,3,1BIF9267,Bicol Express
+9208,2022-05-09,138.53,7,1BH2GSC1,Bicol Express
+2184,2022-09-08,42.09,7,EQIK41SA,Laing
+4391,2022-02-19,82.88,3,7Z9WPFB4,Lechon
+2485,2022-11-16,36.59,6,39CQBTXF,Kare-Kare
+1813,2022-06-17,193.76,5,K9N9VYLD,Adobo
+4547,2022-05-14,73.66,8,1EHYD70D,Kare-Kare
+4944,2022-08-12,73.01,8,UM4259DB,Lechon
+2728,2022-07-10,60.2,9,6POJXEDZ,Balut
+2228,2022-12-06,156.4,2,KWYBLILE,Laing
+7632,2022-05-27,97.15,9,O9SHHYYZ,Kare-Kare
+7954,2022-08-19,117.56,9,OQ4R8SAN,Pancit Canton
+1589,2022-12-05,126.07,6,Q9VZ7O64,Adobo
+1524,2022-03-17,31.44,10,J4LJRQS2,Lechon
+9531,2022-12-27,12.65,6,04BN4RJX,Balut
+7468,2022-01-30,57.79,6,KVJAS0V3,Kare-Kare
+4984,2022-05-04,143.85,10,EEAZJSB2,Lechon
+9759,2022-12-11,142.66,10,C40VZ65O,Taho
+8945,2022-01-22,65.1,6,RYMIBFH6,Pancit Canton
+8710,2022-11-29,162.86,8,YRL99SKW,Sinigang
+4714,2022-07-22,185.06,6,QOAA38D6,Halo-Halo
+8326,2022-05-21,98.18,2,3KT33EMW,Pancit Canton
+5508,2022-11-05,134.1,-1,M0U21RNQ,Balut
+5175,2022-03-15,156.41,0,NXFRBB7T,Laing
+7024,2022-03-16,131.37,2,5HG9HPWV,Halo-Halo
+7372,2022-03-12,140.22,-1,MD4D3BGU,Bicol Express
+5068,2022-08-19,21.75,6,8BXZZMPN,Laing
+7976,2022-08-15,111.39,8,ZZH4V31N,Pancit Canton
+8611,2022-08-06,85.9,5,IO1Z21H9,Halo-Halo
+1731,2022-05-10,67.26,0,NXKDHECP,Halo-Halo
+8186,2022-07-25,95.31,9,DT4SUKSC,Pancit Canton
+1555,2022-04-05,121.87,1,GYYQUKR4,Adobo
+3255,2022-06-27,93.03,7,F3OGA02H,Laing
+6446,2022-02-13,177.76,10,ZGYM3KV0,Halo-Halo
+7539,2022-10-17,114.85,8,D8H4Y0AQ,Balut
+4488,2022-08-02,130.14,3,8NCQU3JR,Bicol Express
+3183,2022-07-20,105.05,10,XFTTTBG0,Laing
+6051,2022-06-19,13.2,6,3LJUSKBY,Pancit Canton
+6214,2022-04-22,67.15,5,JVNIFUO4,Laing
+3905,2022-12-12,63.96,0,V0L7PRUV,Sinigang
+9063,2022-10-01,50.36,2,4QT93G1Z,Halo-Halo
+2124,2022-06-02,143.52,0,D1THJ6MV,Halo-Halo
+2170,2022-06-23,28.23,8,AL7OBY32,Balut
+2886,2022-02-16,154.53,9,68V63OGK,Sinigang
+8119,2022-09-11,95.59,-1,P9FJLHAV,Halo-Halo
+1790,2022-04-28,92.53,9,9OQU8G90,Halo-Halo
+1928,2022-10-27,149.44,4,3DHD85B0,Taho
+3288,2022-09-03,70.03,6,Z4K1BWYO,Kare-Kare
+4404,2022-03-24,138.22,6,HWXFPQW4,Laing
+8409,2022-11-21,36.42,3,01IBH7T8,Bicol Express
+9198,2022-02-06,149.08,1,4AKMNO7X,Adobo
+3002,2022-03-16,119.89,0,M1RLG42D,Halo-Halo
+3311,2022-07-19,39.96,8,WVPM435L,Bicol Express
+6174,2022-11-16,38.41,-1,7AOB7TK9,Laing
+1570,2022-08-05,88.42,-1,FQEOVQ1I,Adobo
+9649,2022-11-28,74.96,0,KGFMPLRZ,Laing
+6685,2022-10-25,145.75,10,BNWXP3C0,Halo-Halo
+8365,2022-08-02,71.32,4,5JIYLNNS,Taho
+2051,2022-07-28,70.06,8,129Z9ELG,Balut
+6063,2022-02-08,48.85,1,K6XXVECP,Pancit Canton
+9519,2022-04-12,121.76,5,4BSS9QKM,Adobo
+4425,2022-07-01,111.84,2,BY1EITZD,Bicol Express
+7564,2022-11-03,71.54,3,A2PDZAKA,Adobo
+8891,2022-09-02,178.15,6,7BMA7FZ2,Balut
+6588,2022-02-06,66.79,6,XXPVVP4N,Lechon
+4981,2022-04-29,106.69,3,R3PJHEEV,Balut
+4440,2022-12-11,121.05,5,SCZD0T05,Pancit Canton
+3194,2022-01-13,86.45,1,NDHL0I84,Halo-Halo
